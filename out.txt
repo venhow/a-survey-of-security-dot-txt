@@ -1,0 +1,2884 @@
+{"github.com" ["https://hackerone.com/github"] ""}
+{"google.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.hk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"facebook.com" ["https://www.facebook.com/whitehat/report/"] ""}
+{"linkedin.com" ["mailto:security@linkedin.com" "https://www.linkedin.com/help/linkedin/answer/62924"] ""}
+{"livejasmin.com" ["mailto:itsecuritypublic@doclerholding.com"] ""}
+{"google.co.in" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.br" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dropbox.com" ["https://hackerone.com/dropbox/"] ""}
+{"google.de" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"zoho.com" ["https://bugbounty.zoho.com/bb/#/submitbug" "mailto:security@zohocorp.com"] ""}
+{"walmart.com" ["https://corporate.walmart.com/article/responsible-disclosure-policy"] ""}
+{"tradingview.com" ["mailto:security@tradingview.com"] ""}
+{"reddit.com" ["mailto:security@reddit.com"] ""}
+{"bbc.com" ["mailto:security@bbc.co.uk"] ""}
+{"tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.it" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.es" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"whatsapp.com" ["https://www.facebook.com/whitehat/report/"] ""}
+{"google.cn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.co.jp" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.tw" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.ru" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.fr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"grammarly.com" ["security@grammarly.com"] ""}
+{"google.com.sg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"bbc.co.uk" ["mailto:security@bbc.co.uk"] ""}
+{"vimeo.com" ["https://hackerone.com/vimeo/reports/new/"] ""}
+{"theguardian.com" ["mailto:appsec@theguardian.com"] ""}
+{"google.co.uk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"paypal.com" ["https://hackerone.com/paypal"] ""}
+{"google.com.tr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.ca" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"chess.com" ["https://support.chess.com/article/346-contact-us"] ""}
+{"google.com.ar" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.mx" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.sa" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"investopedia.com" ["mailto:security@dotdash.com"] ""}
+{"adp.com" ["mailto:vulnerabilityreporting@adp.com"] ""}
+{"google.com.eg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.co.th" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"patreon.com" ["mailto:security@patreon.com"] ""}
+{"trello.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"allegro.pl" ["https://hackerone.com/allegro/reports/new"] ""}
+{"deepl.com" ["mailto:security@deepl.com"] ""}
+{"google.pl" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dailymotion.com" [] ""}
+{"padlet.com" ["mailto:hello@padlet.com"] ""}
+{"google.co.id" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"feedly.com" ["mailto:security@feedly.com"] ""}
+{"ebay-kleinanzeigen.de" ["https://app.zerocopter.com/en/rd/25b4c77d-2872-4637-bb9c-2dac863bd77a"] ""}
+{"outbrain.com" ["security@outbrain.com"] ""}
+{"google.gr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.au" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.vn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"cleartax.in" ["mailto:security-reports@cleartax.in"] ""}
+{"doubleclick.net" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"orange.fr" ["security.fr@orange.com"] ""}
+{"google.ro" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"issuu.com" ["mailto:security@issuu.com"] ""}
+{"line.me" ["https://bugbounty.linecorp.com/en/apply/"] ""}
+{"ecosia.org" ["developer@ecosia.org" "https://info.ecosia.org/about"] ""}
+{"google.co.ve" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"get-express-vpn.online" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"google.co.kr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.ua" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"binance.com" ["security@binance.com"] ""}
+{"themeforest.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"duolingo.com" ["security@duolingo.com"] ""}
+{"google.az" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"nextdoor.com" ["mailto:security@nextdoor.com" "https://hackerone.com/nextdoor"] ""}
+{"onet.pl" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"dspultra.com" [] ""}
+{"google.cl" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.dz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"ionos.com" ["mailto:security@ionos.com"] ""}
+{"google.com.pe" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.co.za" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.pk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"qualtrics.com" ["platform-security@qualtrics.com"] ""}
+{"auth0.com" ["https://auth0.com/responsible-disclosure-policy" "mailto:security@auth0.com"] ""}
+{"overstock.com" ["mailto:vulnerability@overstock.com" "https://www.overstock.com/security"] ""}
+{"flickr.com" ["https://hackerone.com/flickr"] ""}
+{"unsplash.com" ["support@unsplash.com"] ""}
+{"google.at" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"usaa.com" ["https://bugcrowd.com/usaa/report" "mailto:disclosure@usaa.com"] ""}
+{"envato.com" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"forgeofempires.com" ["mailto:security@innogames.com"] ""}
+{"shopify.com" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"zomato.com" ["mailto:security@zomato.com"] ""}
+{"cloudflare.com" ["https://hackerone.com/cloudflare" "mailto:security@cloudflare.com" "https://www.cloudflare.com/abuse/"] "sat, 20 mar 2021 13:24:05 -0700"}
+{"farfetch.com" [] ""}
+{"google.com.my" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"atlassian.net" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"google.com.co" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.be" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"pixiv.net" ["https://hackerone.com/pixiv"] ""}
+{"sfr.fr" ["psirt-ct@sfr.com"] ""}
+{"juntadeandalucia.es" ["mailto:atencion.cert@juntadeandalucia.es" "http://andaluciacert.juntadeandalucia.es"] ""}
+{"onmarshtompor.com" [] ""}
+{"biblegateway.com" ["vdp@harpercollins.com"] ""}
+{"nur.kz" ["mailto:security@corp.nur.kz"] ""}
+{"auspost.com.au" ["mailto:security@auspost.com.au"] ""}
+{"sina.cn" [] ""}
+{"google.ch" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"eset.com" ["https://app.hacktrophy.com"] ""}
+{"codecanyon.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"ameli.fr" ["mailto:abuse@assurance-maladie.fr"] ""}
+{"pandadoc.com" ["mailto:security@pandadoc.com"] ""}
+{"tagesschau.de" [] ""}
+{"zazzle.com" ["the email address \"security\" on the domain \"zazzle.com\""] ""}
+{"eksisozluk.com" ["security@eksisozluk.com"] ""}
+{"deezer.com" ["https://yeswehack.com/programs/deezer-bug-bounty-program-2019"] ""}
+{"plex.tv" ["security@plex.tv"] ""}
+{"google.ae" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"u.gg" [] ""}
+{"denetsuk.com" [] ""}
+{"google.hu" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"opera.com" ["https://security.opera.com"] ""}
+{"thebalance.com" ["mailto:security@dotdash.com"] ""}
+{"lifewire.com" ["mailto:security@dotdash.com"] ""}
+{"heroku.com" ["https://www.heroku.com/policy/security#vuln_report" "mailto:security@salesforce.com"] ""}
+{"hotels.com" ["respdisc@expedia.com"] ""}
+{"thebalancesmb.com" ["mailto:security@dotdash.com"] ""}
+{"thebalancecareers.com" ["mailto:security@dotdash.com"] ""}
+{"southwest.com" ["mailto:securityreport@wnco.com"] ""}
+{"drive2.ru" ["mailto:security@drive2.ru"] ""}
+{"google.nl" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.se" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.co.il" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"xing.com" ["mailto:security-reports@new-work.se"] ""}
+{"lefigaro.fr" ["mailto:security-nm@lefigaro.fr"] ""}
+{"hotukdeals.com" ["security@hotukdeals.com"] ""}
+{"google.com.ph" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"agacelebir.com" [] ""}
+{"navyfederal.org" [] ""}
+{"kontur.ru" ["mailto:security@skbkontur.ru" "mailto:security@kontur.ru"] ""}
+{"google.com.ly" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.pt" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"lego.com" ["mailto:whitehat@lego.com"] ""}
+{"hepsiburada.com" ["security@hepsiburada.com"] ""}
+{"google.fi" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"trademe.co.nz" ["sitesecurity@trademe.co.nz"] ""}
+{"otto.de" ["disclosure@otto.de"] ""}
+{"vinted.fr" ["security@vinted.com"] "thu, 14 jan 2021 01:39:53 -0000"}
+{"sprint.com" ["web_security@sprint.com"] ""}
+{"google.lk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"redbubble.com" ["https://help.redbubble.com/hc/en-us/requests/new?ticket_form_id=16465"] ""}
+{"vistaprint.com" ["bugbounty@cimpress.com"] ""}
+{"atlassian.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"qwant.com" ["https://yeswehack.com/programs/qwant" "ssi@qwant.com"] ""}
+{"boardgamegeek.com" ["security@boardgamegeek.com"] ""}
+{"expressvpn.com" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"lichess.org" ["mailto:contact@lichess.org"] ""}
+{"google.bg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"mydealz.de" ["security@mydealz.de"] ""}
+{"ionos.de" ["mailto:security@ionos.com"] ""}
+{"alza.cz" ["https://www.alza.cz/kontakt/ostatni.htm?qgid=66&qid=316" "tel:+420 725 872 004"] ""}
+{"google.sk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.ie" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.rs" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.cz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"coinsbit.io" ["info@coinsbit.io"] ""}
+{"unreshiramor.com" [] ""}
+{"nodejs.org" ["security@nodejs.org"] ""}
+{"nrk.no" ["mailto:it-sikkerhetsgruppe@nrk.no"] ""}
+{"google.kz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"1password.com" ["mailto:security@agilebits.com" "https://bugcrowd.com/agilebits"] ""}
+{"google.com.kw" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"johnlewis.com" ["https://hackerone.com/john_lewis"] ""}
+{"fanduel.com" ["security@fanduel.com"] ""}
+{"arduino.cc" ["mailto:security@arduino.cc"] ""}
+{"google.lt" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"onstunkyr.com" [] ""}
+{"google.iq" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"joemonster.org" [] ""}
+{"google.com.bd" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dpd.de" ["https://www.trusted-introducer.org/directory/teams/cert-la-poste.html"] ""}
+{"csfd.cz" ["security@csfd.cz"] ""}
+{"loom.com" ["mailto:security@loom.com"] ""}
+{"google.com.ec" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"zaiko.io" ["security@zaiko.io"] ""}
+{"itnuzleafan.com" [] ""}
+{"creditkarma.com" ["https://www.creditkarma.com/about/security" "mailto:vulnerabilities@creditkarma.com"] ""}
+{"thespruceeats.com" ["mailto:security@dotdash.com"] ""}
+{"google.co.ma" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"ozbargain.com.au" ["mailto:contact@ozbargain.com.au" "https://www.ozbargain.com.au/contact"] ""}
+{"google.com.qa" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"23andme.com" ["https://www.23andme.com/security-report/"] ""}
+{"google.dk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"heureka.sk" ["mailto:security@heureka.cz"] ""}
+{"ui.com" ["security@ui.com"] ""}
+{"letgo.com" ["security@letgo.com"] ""}
+{"realpython.com" ["mailto:info+security@realpython.com"] ""}
+{"google.com.do" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"parallels.com" ["security@parallels.com"] ""}
+{"transferwise.com" ["mailto:soc@transferwise.com" "https://transferwise.com/responsible-disclosure"] ""}
+{"google.co.nz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.ng" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"fitbit.com" ["https://www.fitbit.com/bugbounty" "mailto:security@fitbit.com"] ""}
+{"verywellhealth.com" ["mailto:security@dotdash.com"] ""}
+{"justworks.com" [] ""}
+{"memrise.com" ["security@memrise.com"] ""}
+{"thoughtco.com" ["mailto:security@dotdash.com"] ""}
+{"europapress.es" [] ""}
+{"novaposhta.ua" ["bounty@novaposhta.ua" "+380 532696114"] ""}
+{"getdrip.com" ["mailto:security@drip.com"] ""}
+{"thetradedesk.com" ["security.20200921@thetradedesk.com"] ""}
+{"vistaprint.in" ["bugbounty@cimpress.com"] ""}
+{"google.tn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"rotumal.com" [] ""}
+{"galaxus.ch" ["mailto:cybersecurity@digitecgalaxus.ch"] ""}
+{"trezor.io" ["security@trezor.io"] ""}
+{"auweelta.net" [] ""}
+{"preply.com" ["security@preply.com"] ""}
+{"tracker.gg" ["mailto:security@tracker.gg"] ""}
+{"is.fi" ["mailto:cert@sanoma.com" "mailto:sndp.oncall@sanoma.com"] ""}
+{"heureka.cz" ["mailto:security@heureka.cz"] ""}
+{"theknot.com" ["security [at] xogrp [dot] com"] ""}
+{"zoho.in" ["https://bugbounty.zoho.com/bb/#/submitbug" "mailto:security@zohocorp.com"] ""}
+{"jigsawplanet.com" ["hostmaster@tibo.cz"] ""}
+{"google.hr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"ftx.com" ["security@ftx.com"] ""}
+{"verywellmind.com" ["mailto:security@dotdash.com"] ""}
+{"tv2.dk" ["mailto:security@tv2.dk"] ""}
+{"bitbucket.org" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"elvenar.com" ["mailto:security@innogames.com"] ""}
+{"ricardo.ch" ["mailto:security@ricardo.ch"] ""}
+{"google.com.mm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"lowtyroguer.com" [] ""}
+{"dastelefonbuch.de" ["disclosure@dastelefonbuch.de"] ""}
+{"namepros.com" ["https://www.namepros.com/forums/205/?ref=securitytxt"] ""}
+{"post.ch" ["security@post.ch"] ""}
+{"drugs.com" ["mailto:security@drugs.com"] ""}
+{"forlumineontor.com" [] ""}
+{"rte.ie" ["mailto:abuse@rte.ie"] ""}
+{"pepper.pl" ["security@pepper.pl"] ""}
+{"verywellfamily.com" ["mailto:security@dotdash.com"] ""}
+{"ionos.mx" ["mailto:security@ionos.com"] ""}
+{"gog.com" ["https://support.gog.com/hc/en-us/requests/new?form=other&product=gog"] ""}
+{"thespruce.com" ["mailto:security@dotdash.com"] ""}
+{"canon-europe.com" ["product-security@canon-europe.com"] ""}
+{"raiffeisen.ch" ["security@raiffeisen.ch"] ""}
+{"shopify.com.au" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"domain.com.au" ["disclosure@domain.com.au"] ""}
+{"tesco.com" ["mailto:technology.security@tesco.com"] ""}
+{"compass.com" ["mailto:security@compass.com"] ""}
+{"postlnk.com" [] ""}
+{"google.no" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"articulate.com" ["mailto:security-disclosure@articulate.com"] ""}
+{"digitec.ch" ["mailto:cybersecurity@digitecgalaxus.ch"] ""}
+{"wpengine.com" ["https://wpengine.com/security"] ""}
+{"omchimcharchan.com" [] ""}
+{"cuisineaz.com" ["website-security@odiso.com"] ""}
+{"gandi.net" ["mailto:security@gandi.net" "mailto:abuse@gandi.net"] ""}
+{"overzoruaon.com" [] ""}
+{"graphicriver.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"beklefkiom.com" [] ""}
+{"mcdonalds.com" ["dataquestions@us.mcd.com"] ""}
+{"brave.com" ["security@brave.com"] ""}
+{"crunchbase.com" ["mailto:security@crunchbase.com"] ""}
+{"ndr.de" [] ""}
+{"aso1.net" ["mailto:sec@adsrv.org"] ""}
+{"wordfence.com" ["security@wordfence.com"] ""}
+{"dealabs.com" ["security@dealabs.com"] ""}
+{"finn.no" ["responsible-disclosure@finn.no"] ""}
+{"hyatt.com" ["mailto:security@hyatt.com"] ""}
+{"google.by" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"vestiairecollective.com" ["mailto:security@vestiairecollective.com"] ""}
+{"airtable.com" ["security@airtable.com"] ""}
+{"fark.com" ["https://www.fark.com/feedback/error"] ""}
+{"avira.com" ["mailto:vulnerabilities@avira.com"] ""}
+{"dpd.co.uk" ["it.security@dpdgroup.co.uk"] ""}
+{"gamestar.de" ["hostmaster@gamestar.de"] ""}
+{"bol.com" ["rd@bol.com"] ""}
+{"geedoovu.net" [] ""}
+{"marketingautomation.services" ["security [ at ] sharpspring.com"] ""}
+{"sportmaster.ru" ["esmteam-security@sportmaster.ru"] ""}
+{"kohsantepheapdaily.com.kh" ["mailto:chanty.sothy@gmail.com"] ""}
+{"verywellfit.com" ["mailto:security@dotdash.com"] ""}
+{"thesprucepets.com" ["mailto:security@dotdash.com"] ""}
+{"ucl.ac.uk" ["https://www.ucl.ac.uk/information-security/contact-us"] ""}
+{"liveabout.com" ["mailto:security@dotdash.com"] ""}
+{"login.gov" ["mailto:security@login.gov" "https://login.gov/contact/" "https://docs.google.com/forms/d/e/1faipqlscuo4xczblplnoq7-bdavaxtjci03by7s-q-z_jubdlok01qa/viewform"] ""}
+{"adafruit.com" ["security@adafruit.com"] ""}
+{"unibet.be" ["https://hackerone.com/kindred_group"] ""}
+{"google.com.uy" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"uwaterloo.ca" ["mailto:soc@uwaterloo.ca" "https://soc.uwaterloo.ca"] ""}
+{"papaki.com" ["mailto:security@enartia.com"] ""}
+{"joomla.org" ["mailto:security@joomla.org"] ""}
+{"videohive.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"google.jo" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"promodescuentos.com" ["security@promodescuentos.com"] ""}
+{"bitmex.com" [] ""}
+{"kali.org" ["security at offensive-security dot com"] ""}
+{"rtl.fr" ["website-security@odiso.com"] ""}
+{"daveramsey.com" ["mailto:security_awareness@daveramsey.com"] ""}
+{"adex.network" ["mailto:security@adex.network"] ""}
+{"downdetector.com" ["security@downdetector.com" "security@ookla.com"] ""}
+{"businessinsider.com.pl" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"npmjs.com" ["security@npmjs.com"] ""}
+{"agalarvitaran.com" [] ""}
+{"fb.com" ["https://www.facebook.com/whitehat/report/"] ""}
+{"trustwallet.com" ["security@trustwallet.com"] ""}
+{"wolt.com" ["mailto:security@wolt.com"] ""}
+{"sin-mesias.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gear4music.com" ["security@g4m.co.uk"] ""}
+{"google.lv" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"taxcloudindia.com" ["mailto:security-reports@cleartax.in"] ""}
+{"volkswagen.de" ["cert-vw@volkswagen.de\rencryption: openpgp4fpr:77543586a8bb4322d8affb3e6de6fe3812048e53"] ""}
+{"levi.com" [] ""}
+{"vercel.com" ["mailto:security@vercel.com" "https://hackerone.com/vercel"] ""}
+{"tripsavvy.com" ["mailto:security@dotdash.com"] ""}
+{"3dnews.ru" ["https://hackerone.com/v3dnews"] ""}
+{"nubank.com.br" ["mailto:security@nubank.com.br"] ""}
+{"bidorbuy.co.za" [] ""}
+{"namshi.com" ["mailto:security@namshi.com"] ""}
+{"revolut.com" ["https://www.revolut.com/responsible-disclosure-program" "security@revolut.com"] ""}
+{"thebump.com" ["security [at] xogrp [dot] com"] ""}
+{"uptodate.com" [] ""}
+{"eneba.com" ["mailto:security@eneba.com"] ""}
+{"jobs.cz" ["jiri.novak@lmc.eu"] ""}
+{"3docean.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"jetbrains.com" ["security@jetbrains.com"] ""}
+{"tenable.com" ["mailto:vulnreport@tenable.com"] ""}
+{"grepolis.com" ["mailto:security@innogames.com"] ""}
+{"followupboss.com" ["mailto:security@followupboss.com"] ""}
+{"neverbounce.com" ["mailto:security@neverbounce.com"] ""}
+{"backmarket.com" ["mailto:security@backmarket.com"] "mon, 07 jun 2021 00:00:00 -0800"}
+{"vrt.be" ["mailto:infosec@vrt.be"] ""}
+{"clio.com" ["https://www.clio.com/security/responsible-disclosure" "security@clio.com"] ""}
+{"national-lottery.co.uk" ["security@national-lottery.co.uk"] ""}
+{"myetherwallet.com" ["mailto:security@myetherwallet.com"] ""}
+{"factorialhr.com" ["security@factorialhr.com"] ""}
+{"google.com.bo" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"mikrotik.com" ["https://mikrotik.com/support"] ""}
+{"google.com.sv" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"luw0ncity.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"yithemes.com" [] ""}
+{"edmodo.com" ["mailto:support@edmodo.com" "https://support.edmodo.com/hc/en-us/articles/360035475733"] ""}
+{"google.com.py" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"overkirliaan.com" [] ""}
+{"easybill.de" ["security@easybill.de"] ""}
+{"streamz.vg" [] ""}
+{"google.si" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"odoo.com" ["security@odoo.com"] ""}
+{"c-span.org" ["mailto:acloutier@c-spanarchives.org"] ""}
+{"ahgora.com.br" ["mailto:security@ahgora.com.br"] ""}
+{"ica.se" ["mailto:security@ica.se" "mailto:opsec@ica.se"] ""}
+{"sageone.co.za" ["soc@sage.com"] ""}
+{"google.ba" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"hs.fi" ["mailto:cert@sanoma.com" "mailto:sndp.oncall@sanoma.com"] ""}
+{"acedious.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ionos.co.uk" ["mailto:security@ionos.com"] ""}
+{"passeportsante.net" ["website-security@odiso.com"] ""}
+{"lookfantastic.com" ["https://www.thg.com/security-issues/"] ""}
+{"wannonce.com" ["security@wannonce.com"] ""}
+{"vinted.de" ["security@vinted.com"] "thu, 14 jan 2021 01:53:55 -0000"}
+{"wired.co.uk" ["cndtriage@condenast.co.uk"] ""}
+{"ionos.es" ["mailto:security@ionos.com"] ""}
+{"trendmicro.com" ["mailto:security@trendmicro.com"] ""}
+{"karriere.at" ["security@karriere.at"] ""}
+{"google.com.cu" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"alza.sk" ["https://www.alza.cz/kontakt/ostatni.htm?qgid=66&qid=316" "tel:+420 725 872 004"] ""}
+{"thesprucecrafts.com" ["mailto:security@dotdash.com"] ""}
+{"deere.com" ["https://www.deere.com/en/forms/corporate/it-security-consulting/"] ""}
+{"pepper.it" ["security@pepper.it"] ""}
+{"dust-magic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"abdurantom.com" [] ""}
+{"dreamhost.com" ["abuse@dreamhost.com"] ""}
+{"pluralsight.com" ["security@pluralsight.com"] ""}
+{"linecorp.com" ["https://bugbounty.linecorp.com/en/apply/"] ""}
+{"sage.com" ["soc@sage.com"] ""}
+{"grofers.com" [""] ""}
+{"heeteefu.com" [] ""}
+{"bitstamp.net" ["support@bitstamp.net"] ""}
+{"evelinsuarez.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"supermetrics.com" ["security@supermetrics.com"] ""}
+{"google.cd" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dbrand.com" ["mailto:security@dbrand.com"] ""}
+{"ifortuna.sk" ["fegpubsec@feg.eu"] ""}
+{"sparkfun.com" ["mailto:it_security@sparkfun.com"] ""}
+{"dba.dk" ["https://app.zerocopter.com/en/rd/f71e86cf-9034-41ac-bc75-6eda26114ead"] ""}
+{"google.cm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"sooclosee.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"perrduto.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"manoramanews.com" [] ""}
+{"taiwanteam.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ckeditor.com" ["mailto:security@cksource.com"] ""}
+{"google.com.et" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dpd.com" ["https://www.trusted-introducer.org/directory/teams/cert-la-poste.html"] ""}
+{"care-fr3e-living.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"outsystems.com" ["csirt@outsystems.com"] ""}
+{"x-minus.pro" [] ""}
+{"pushcrew.com" ["security@wingify.com"] ""}
+{"phpmyadmin.net" ["mailto:security@phpmyadmin.net"] ""}
+{"google.co.mz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"skillshare.com" ["mailto:bugbounty@skillshare.com"] ""}
+{"kabelzug-ay.de" [] ""}
+{"smarthr.jp" ["mailto:security@smarthr.co.jp"] "fri, 31 dec 2021 23:59:59 +0900"}
+{"komputerswiat.pl" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"probuildstats.com" [] ""}
+{"mollie.com" ["security@mollie.com"] ""}
+{"nintendo.fr" [] ""}
+{"casper.com" ["https://hackerone.com/casper"] ""}
+{"aamulehti.fi" ["mailto:cert@sanoma.com" "mailto:sndp.oncall@sanoma.com"] ""}
+{"shopify.jp" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"zoho.eu" ["https://bugbounty.zoho.com/bb/#/submitbug" "mailto:security@zohocorp.com"] ""}
+{"myprotein.jp" ["https://www.thg.com/security-issues/"] ""}
+{"stawhoph.com" [] ""}
+{"cleverbridge.com" ["mailto:security@cleverbridge.com"] ""}
+{"lacoste.com" ["mailto:info.security@lacoste.com"] ""}
+{"betalonflamechan.com" [] ""}
+{"sharpspring.com" ["security [ at ] sharpspring.com"] ""}
+{"linode.com" ["disclosure@linode.com"] ""}
+{"csob.cz" ["mailto:websecurity@csob.cz"] ""}
+{"n26.com" ["https://hackerone.com/n26"] ""}
+{"kuke.com" [] ""}
+{"google.co.uz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.gt" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"rapid7.com" [] ""}
+{"contentkingapp.com" ["security@contentkingapp.com"] ""}
+{"mariadb.com" ["mailto:security@mariadb.com"] ""}
+{"despegar.com.ar" ["seguridad@despegar.com"] ""}
+{"startmail.com" ["mailto:security@startmail.com"] ""}
+{"qonto.com" ["security@qonto.eu"] ""}
+{"iflix.com" ["security@iflix.com"] ""}
+{"tipsport.sk" ["mailto:security@tipsport.sk"] ""}
+{"isthereanydeal.com" ["security@isthereanydeal.com"] ""}
+{"chitchats.com" ["security@reinvent.com"] ""}
+{"slite.com" ["mailto:security@slite.com"] "fri, 31 dec 2021 12:00:00 +0001"}
+{"spreadshirt.de" ["mailto:security@spreadshirt.net"] ""}
+{"ionos.fr" ["mailto:security@ionos.com"] ""}
+{"google.com.ni" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"audiojungle.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"laidauni.com" [] ""}
+{"byfoongusor.com" [] ""}
+{"google.com.om" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.so" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"diia.gov.ua" ["mailto:security@diia.gov.ua"] ""}
+{"mattressfirm.com" ["mailto:security@mattressfirm.com"] ""}
+{"sharesies.nz" ["mailto:security@sharesies.co.nz"] ""}
+{"confirmit.com" ["vulnerabilityreport@confirmit.com"] ""}
+{"pelando.com.br" ["security@pelando.com.br"] ""}
+{"downloadapktopc.com" [] ""}
+{"easypass.cn" [] ""}
+{"qingting.fm" [] ""}
+{"computerbase.de" ["mailto:security@computerbase.de"] ""}
+{"fotoforensics.com" ["mailto:security2020@hackerfactor.com"] ""}
+{"decathlon.sk" ["security@decathlon.com"] ""}
+{"ilinouck.net" [] ""}
+{"webretailer.com" ["support@webretailer.com"] ""}
+{"zunsoach.com" [] ""}
+{"die-staemme.de" ["mailto:security@innogames.com"] ""}
+{"99designs.com" ["mailto:security@99designs.com"] ""}
+{"downdetector.fr" ["security@downdetector.com" "security@ookla.com"] ""}
+{"miodottore.it" ["mailto:bugreporting@docplanner.com"] ""}
+{"mprinyt.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.com.bh" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"glazegha.com" [] ""}
+{"vistaprint.com.au" ["bugbounty@cimpress.com"] ""}
+{"uxpin.com" ["mailto:security@uxpin.com"] ""}
+{"glossybox.de" ["https://www.thg.com/security-issues/"] ""}
+{"paxnetnews.com" [] ""}
+{"coinpaprika.com" ["security@coinpaprika.com" "https://coinpaprika.com/contact/"] ""}
+{"surewhattheheck.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"eveonline.com" ["mailto:security@ccpgames.com"] ""}
+{"komplett.se" ["https://www.komplett.se/kundservice/kontaktformulaer"] ""}
+{"zive.cz" ["https://www.cncenter.cz/clanek/1751/czech-news-center" "https://www.facebook.com/czechnewscenter/"] ""}
+{"liquor.com" ["mailto:security@dotdash.com"] ""}
+{"mydomaine.com" ["mailto:security@dotdash.com"] ""}
+{"spolehliva-svitidla.cz" ["mailto:security@shoptet.cz"] ""}
+{"hotels.cn" ["respdisc@expedia.com"] ""}
+{"helperchoice.com" ["mailto:security-report@worklife.io"] ""}
+{"viamichelin.fr" [] ""}
+{"homebook.pl" [] ""}
+{"myprotein.com" ["https://www.thg.com/security-issues/"] ""}
+{"contentful.com" ["mailto:security@contentful.com"] ""}
+{"ionos.ca" ["mailto:security@ionos.com"] ""}
+{"google.com.lb" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"overonixa.com" [] ""}
+{"eyeem.com" ["security@eyeem.com"] ""}
+{"zoho.com.au" ["https://bugbounty.zoho.com/bb/#/submitbug" "mailto:security@zohocorp.com"] ""}
+{"percona.com" ["security@percona.com / +44 1214 682 054"] ""}
+{"mecatechnic.com" ["website-security@odiso.com"] ""}
+{"omchanseyr.com" [] ""}
+{"zuphaims.com" [] ""}
+{"google.hn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"peopleperhour.com" ["sre+security@peopleperhour.com"] ""}
+{"pg.com" ["https://hackerone.com/proctergamble"] ""}
+{"41.cn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"shipmonk.com" ["mailto:security@shipmonk.com" "https://twitter.com/shipmonkdevs"] ""}
+{"brides.com" ["mailto:security@dotdash.com"] ""}
+{"kaurouby.net" [] ""}
+{"myprotein.at" ["https://www.thg.com/security-issues/"] ""}
+{"winscp.net" ["security@winscp.net"] ""}
+{"moneta.cz" ["mailto:vulnerability@moneta.cz"] ""}
+{"borrowell.com" ["mailto:security@borrowell.com"] ""}
+{"6play.fr" ["website-security@m6web.fr"] ""}
+{"getstencil.com" ["oliver@getstencil.com"] ""}
+{"quintoandar.com.br" ["security@quintoandar.com.br"] ""}
+{"atrapalo.com" ["mailto:security@atrapalo.com" "https://keybase.io/atrapalo"] ""}
+{"film-technika.com" ["mailto:security@shoptet.cz"] ""}
+{"shopify.com.sg" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"moutoofa.com" [] ""}
+{"ftshp.co.uk" ["jan.kosco@footshop.cz"] ""}
+{"pepper.ru" ["security@pepper.ru"] ""}
+{"avanza.se" ["securityreport@avanza.se"] ""}
+{"ao.com" ["mailto:infosec@ao.com"] ""}
+{"google.com.kh" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.md" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"m-ay.eu" [] ""}
+{"home-assistant.io" ["mailto:security@home-assistant.io"] ""}
+{"edadeal.ru" ["devops@edadeal.ru"] ""}
+{"ofgogoatan.com" [] ""}
+{"linustechtips.com" ["https://linustechtips.freshdesk.com/support/tickets/new" "https://linustechtips.com/main/messenger/compose/?to=10813"] ""}
+{"letsencrypt.org" ["security@letsencrypt.org"] ""}
+{"urlscan.io" ["info@urlscan.io"] ""}
+{"amateri.com" ["mailto:security@amateri.com"] ""}
+{"zodiac.tw" [] ""}
+{"guerrastribales.es" ["mailto:security@innogames.com"] ""}
+{"top.host" ["mailto:security@enartia.com"] ""}
+{"snyk.io" ["security@snyk.io"] ""}
+{"auto-swiat.pl" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"avm.de" ["security@avm.de"] ""}
+{"wholesomeyum.com" [] ""}
+{"icann.org" ["https://hackerone.com/icann" "mailto:vulnerability@icann.org"] ""}
+{"mailbox.org" ["mailto:security@heinlein-support.de"] "31 oct 2021 00:00:00 ut"}
+{"thebalanceeveryday.com" ["mailto:security@dotdash.com"] ""}
+{"staff.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gaojing263-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mayonez.jp" [] ""}
+{"groupprice.ru" [] ""}
+{"photodune.net" ["https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490"] ""}
+{"slevomat.cz" ["mailto:admin@slevomat.cz" "https://twitter.com/slevomatlive"] ""}
+{"svetelnestudio.cz" ["mailto:security@netdirect.cz"] ""}
+{"kiwi.com" ["security@kiwi.com"] ""}
+{"salto.fr" ["website-security@m6web.fr"] ""}
+{"backmarket.co.uk" ["mailto:security@backmarket.com"] "mon, 07 jun 2021 00:00:00 -0800"}
+{"dualvoidanima.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"leroymerlin.it" ["mailto:security@leroymerlin.it"] ""}
+{"lovoo.com" ["mailto:vulnerability@lovoo.com"] ""}
+{"lancs.ac.uk" ["mailto:breach-notification@lancaster.ac.uk"] ""}
+{"google.ge" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"lookfantastic.jp" ["https://www.thg.com/security-issues/"] ""}
+{"seeptauw.net" [] ""}
+{"spacex.com" ["mailto:security@spacex.com"] ""}
+{"shopify.com.mx" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"jomtingi.net" [] ""}
+{"jira.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"autoplius.lt" ["mailto:pagalba@autoplius.lt"] ""}
+{"pignuwoa.com" [] ""}
+{"pushinglittledaisies.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"diawi.com" ["mailto:security@diawi.com"] ""}
+{"google.com.na" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.gh" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"flywire.com" ["mailto:security@flywire.com"] ""}
+{"uio.no" ["https://cert.uio.no/contact"] ""}
+{"shopify.com.ph" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"roseyjones.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ifit.com" ["security@ifit.com"] ""}
+{"google.co.ke" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dennikn.sk" ["security@dennikn.sk"] ""}
+{"google.cat" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"preisjaeger.at" ["security@preisjaeger.at"] ""}
+{"seephoak.net" [] ""}
+{"decathlon.ru" ["security@decathlon.com"] ""}
+{"anglianwater.co.uk" ["mailto:cybersecurity@anglianwater.co.uk"] ""}
+{"padrepauloricardo.org" [] ""}
+{"guanbo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hornbach.ch" ["infosec@hornbach.com"] ""}
+{"canon.at" ["product-security@canon-europe.com"] ""}
+{"adaware.com" ["dpo@adaware.com"] ""}
+{"google.tm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"podlahy-binder.cz" ["mailto:security@shoptet.cz"] ""}
+{"google.mg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"takjestemgruba.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"maotu999.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ninjakiwi.com" ["security@ninjakiwi.com"] ""}
+{"justgiving.com" ["mailto:security@blackbaud.com"] ""}
+{"ushoofop.com" [] ""}
+{"louchees.net" [] ""}
+{"krisp.ai" ["mailto:security@krisp.ai"] ""}
+{"abdlshittalk.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ladipage.com" [] ""}
+{"google.co.cr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"spareroom.co.uk" ["mailto:security@spareroom.co.uk" "https://www.spareroom.co.uk/contact.pl"] ""}
+{"hornbach.de" ["infosec@hornbach.com"] ""}
+{"ambis.cz" ["mailto:security@solidpixels.net" "https://www.solidpixels.net/en/contact" "https://www.solidpixels.net/cs/kontakt"] ""}
+{"gillettevenus.com.br" ["https://hackerone.com/proctergamble"] ""}
+{"shopify.com.br" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"roulediana.com" [] ""}
+{"nintendo.pt" [] ""}
+{"monstersclash.com" [] ""}
+{"myprotein.co.in" ["https://www.thg.com/security-issues/"] ""}
+{"universityadmissions.se" ["mailto:uhr.produktionssamordning@uhr.se"] ""}
+{"iana.org" ["https://hackerone.com/icann" "mailto:vulnerability@icann.org"] ""}
+{"dotdash.com" ["mailto:security@dotdash.com"] ""}
+{"boaphaps.net" [] ""}
+{"ovh.com" ["csirt@ovhcloud.com"] ""}
+{"bugcrowd.com" ["https://bugcrowd.com/bugcrowd"] ""}
+{"clixwall.com" ["mailto:security@clixwall.com"] ""}
+{"ao.de" ["mailto:infosec@ao.com"] ""}
+{"alditalk-kundenbetreuung.de" ["https://www.telefonica.de/responsible-disclosure.html"] ""}
+{"verivox.de" ["mailto:alexander.buchner@verivox.com"] ""}
+{"waipu.tv" ["security@exaring.de"] ""}
+{"fountain.com" ["mailto:security@fountain.com"] ""}
+{"ffxivguild.com" [] ""}
+{"nay.sk" ["petr zdansky (petr.zdansky@peckadesign.cz)" "peckadesign support (support@peckadesign.cz)" "jan kopcok (kopcok@nay.sk)"] ""}
+{"decathlon.com.tr" ["security@decathlon.com"] ""}
+{"glamourmagazine.co.uk" ["cndtriage@condenast.co.uk"] ""}
+{"kongsberg.com" ["mailto:securitytxt@kongsberg.com"] ""}
+{"mainlinemenswear.com" ["mailto:andy@mainlinemenswear.co.uk"] ""}
+{"google.ee" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"automovilespuras.es" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.ci" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"mandalorian-1x8-espanol.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"greatscottexclamationpoint.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pampers.com" ["https://hackerone.com/proctergamble"] ""}
+{"scryfall.com" ["https://scryfall.com/contact?topic=security"] ""}
+{"betemolgar.com" [] ""}
+{"itroggenrolaa.com" [] ""}
+{"nets.eu" ["nets-cert@nets.eu"] ""}
+{"messagebird.com" ["https://hackerone.com/messagebird" "mailto:security@messagebird.com"] ""}
+{"venture.com" ["security@reinvent.com"] ""}
+{"bloomandwild.com" ["mailto:security-tech@bloomandwild.com"] ""}
+{"oddfuture.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"filepicker.io" ["mailto:security@filestack.com"] ""}
+{"pdfpen.com" ["mailto:security@smilesoftware.com"] ""}
+{"haveibeenpwned.com" ["mailto:security@troyhunt.com" "https://twitter.com/troyhunt"] ""}
+{"infosalus.com" [] ""}
+{"immoweb.be" ["mailto:security@immoweb.be"] ""}
+{"google.com.af" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"action.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"farfetch.cn" [] ""}
+{"act-like-u-are-a-heartless-bitch.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tipsport.cz" ["mailto:security@tipsport.cz"] ""}
+{"ifortuna.cz" ["fegpubsec@feg.eu"] ""}
+{"chasrrr.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"skialpinista.sk" ["security@floxcloud.net"] ""}
+{"doktortakvimi.com" ["mailto:bugreporting@docplanner.com"] ""}
+{"exponea.com" ["secops at exponea.com"] ""}
+{"sparebank1.no" ["mailto:security@sparebank1.no"] ""}
+{"bentley.com" ["mailto:security@bentley.com"] ""}
+{"whugesto.net" [] ""}
+{"hoteles.com" ["respdisc@expedia.com"] ""}
+{"infragistics.com" ["mailto:security@infragistics.com"] ""}
+{"digitecgalaxus.ch" ["mailto:cybersecurity@digitecgalaxus.ch"] ""}
+{"novaskin.me" ["https://hackerone.com/automattic/reports/new"] ""}
+{"decathlon.fr" ["security@decathlon.com"] ""}
+{"treehugger.com" ["mailto:security@dotdash.com"] ""}
+{"animixplay.to" ["mailto:sakamoto@animixplay.to"] ""}
+{"osti.gov" [] ""}
+{"hangulteam.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"downloadapk.net" [] ""}
+{"eab.com" ["mailto:security@eab.com"] ""}
+{"wm.edu" ["support@wm.edu" "+1-757-221-4357"] ""}
+{"intercom-mail.com" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"hepsiburada.net" ["security@hepsiburada.com"] ""}
+{"caretobeauty.com" ["mailto:security@caretobeauty.com"] ""}
+{"wonder-woman-1984-tw-hk.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fintual.cl" ["security~at~fintual~dot~com"] ""}
+{"ibood.com" ["https://www.intigriti.com/programs/iboodcom/iboodcom/"] ""}
+{"wpfixit.com" [] ""}
+{"rongbay.com" [] ""}
+{"cardboard-crack.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whatsapp.net" ["https://www.facebook.com/whitehat/report/"] ""}
+{"luvaihoo.com" [] ""}
+{"acronis.com" ["mailto:security@acronis.com" "https://hackerone.com/acronis/"] ""}
+{"uselnk.com" [] ""}
+{"vinted.cz" ["security@vinted.com"] "thu, 14 jan 2021 02:33:54 -0000"}
+{"lunapic.com" ["https://www.lunapic.com/editor/?action=feedback"] ""}
+{"zoaheeth.com" [] ""}
+{"healthengine.com.au" ["security@healthengine.com.au"] ""}
+{"tatler.com" ["cndtriage@condenast.co.uk"] ""}
+{"get-express-vpn.com" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"pitchero.com" ["mailto:security@pitchero.com"] ""}
+{"papaki.gr" ["mailto:security@enartia.com"] ""}
+{"player.fm" ["support@player.fm"] ""}
+{"ladipage.vn" [] ""}
+{"mall.sk" ["mailto:abuse@mallgroup.com"] ""}
+{"gutcheckit.com" [] ""}
+{"reworker.jp" [] ""}
+{"yamatokurashi.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"universallytragedywonderland-861.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.am" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.ps" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"duo.com" ["psirt@duosecurity.com"] ""}
+{"nachi.org" ["https://www.nachi.org/bug-bounty/submit"] ""}
+{"paidviewpoint.com" ["mailto:security@remove-this-fake-paidviewpoint.com"] ""}
+{"komplett.dk" ["https://www.komplett.dk/kundeservice/kontaktformular"] ""}
+{"telenor.no" ["tsoc@tsoc.telenor.net"] ""}
+{"ncu.edu.tw" ["abuse@ncu.edu.tw"] ""}
+{"saathi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"copyleaks.com" ["mailto:security@copyleaks.com"] ""}
+{"president.gov.ua" ["mailto:security@president.gov.ua"] ""}
+{"871104-choitop.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"decathlon.de" ["security@decathlon.com"] ""}
+{"fragdenstaat.de" ["mailto:mail@fragdenstaat.de"] ""}
+{"knuddels.de" ["securityreports@knuddels.de"] ""}
+{"iliyon.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"telefonbuch.de" ["disclosure@dastelefonbuch.de"] ""}
+{"topconfessions.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"xn--allestrungen-9ib.de" ["security@downdetector.com" "security@ookla.com"] ""}
+{"polar.com" ["mailto:security@polar.com"] ""}
+{"travelbook.de" ["https://www.axelspringer.com/en/cyber-security" "security-incident@axelspringer.de"] ""}
+{"rozhlas.cz" ["mailto:internet@rozhlas.cz" "mailto:jan.pospisil@rozhlas.cz"] ""}
+{"gme.cz" ["mailto:eshop@gme.cz" "tel:+420 226535111" "mailto:jbouda@propojime.cz" "https://www.gme.cz/?loc=text_system&id=4"] ""}
+{"spreadshirt.be" ["mailto:security@spreadshirt.net"] ""}
+{"prinsomnia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.com.np" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"byrdie.com" ["mailto:security@dotdash.com"] ""}
+{"alspearowa.com" [] ""}
+{"spreadshirt.com" ["mailto:security@spreadshirt.net"] ""}
+{"komplett.no" ["https://www.komplett.no/kundeservice/kontaktskjema"] ""}
+{"houdodoo.net" [] ""}
+{"freelancehunt.com" ["security@freelancehunt.com"] ""}
+{"newsweek.pl" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"guilded.gg" ["mailto:security@guilded.gg"] ""}
+{"hesaplama.net" ["https://iletisim.hesaplama.net/"] ""}
+{"downdetector.fi" ["security@downdetector.com" "security@ookla.com"] ""}
+{"google.sn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"sorare.com" ["mailto:tech@sorare.com"] ""}
+{"google.bf" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"nintendo.co.uk" [] ""}
+{"directoriocubano.info" ["support@directoriocubano.info"] ""}
+{"palantir.com" ["mailto:cirt@palantir.com"] ""}
+{"siteminder.com" ["security.officer@siteminder.com" "https://www.siteminder.com/contact"] ""}
+{"staf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"esky.pl" ["mailto:security@esky.com"] ""}
+{"drupal.org" ["mailto:security@drupal.org or click on the \"report security vulnerability\" on a project page"] ""}
+{"fallontonight.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"howdareparkjimin.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"magonka.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ladybirdluck.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"serahymn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"coremicro.com" ["mailto:vm@coremicro.com" "tel:510-687-1234"] ""}
+{"google.mu" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"skinstore.com" ["https://www.thg.com/security-issues/"] ""}
+{"george2tx.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.com.gi" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"backmarket.es" ["mailto:security@backmarket.com"] "mon, 07 jun 2021 00:00:00 -0800"}
+{"hornbach.se" ["infosec@hornbach.com"] ""}
+{"civadsoo.net" [] ""}
+{"maptiler.com" ["sysadmin@klokantech.com" "https://www.klokantech.com/contact/" "https://twitter.com/maptiler" "https://www.facebook.com/maptiler/"] ""}
+{"grab.com" ["https://hackerone.com/grab" "security@grab.com"] ""}
+{"nuance.com" ["mailto:security@nuance.com" "https://www.nuance.com/about-us/security/engage-us.html"] ""}
+{"google.com.cy" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"therapynotes.com" ["mailto:security@therapynotes.com" "support@therapynotes.com" "https://www.therapynotes.com/contact/"] ""}
+{"ncov2019.live" [] ""}
+{"decathlon.nl" ["security@decathlon.com"] ""}
+{"esky.es" ["mailto:security@esky.com"] ""}
+{"capella.edu" [] ""}
+{"michelin.com" ["cert@michelin.com"] ""}
+{"dumporcelanu.cz" ["mailto:admin@simplia.cz" "https://www.simplia.cz"] ""}
+{"epasvitidla.cz" ["mailto:security@shoptet.cz"] ""}
+{"hornbach.cz" ["infosec@hornbach.com"] ""}
+{"google.tt" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"foowafoa.com" [] ""}
+{"whatismybrowser.com" ["mailto:info@whatismybrowser.com"] ""}
+{"ptoushoa.com" [] ""}
+{"yaarlnk.com" [] ""}
+{"drive2.com" ["mailto:security@drive2.ru"] ""}
+{"discountreligiousauthority.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shetnews.co.uk" ["mailto:admin@shetnews.co.uk"] ""}
+{"wetwipez.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"unit.no" ["vulnerability@unit.no"] ""}
+{"posten.no" ["mailto:it.sikkerhet@posten.no"] ""}
+{"helsenorge.no" [] ""}
+{"petchesa.net" [] ""}
+{"bloomscape.com" ["mailto:security-alerts@bloomscape.com"] ""}
+{"crowdcow.com" [] ""}
+{"swapcard.com" ["security@swapcard.com"] ""}
+{"pitch.com" ["mailto:security@pitch.com"] "wed, 20 oct 2021 14:00:00 +0100"}
+{"zepedroalvarez.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"adsymptotic.com" [] ""}
+{"google.com.pa" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"shopify.co.za" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"onemboaran.com" [] ""}
+{"footshop.eu" ["jan.kosco@footshop.cz"] ""}
+{"dmosk.ru" ["master@dmosk.ru"] ""}
+{"google.co.tz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"the-west.pl" ["mailto:security@innogames.com"] ""}
+{"cnnected.org" [] ""}
+{"qualys.com" ["https://www.qualys.com/company/contacts/" "mailto:security@qualys.com" "tel:+1-866-801-6161"] ""}
+{"macroaxis.com" [] ""}
+{"downdetector.ca" ["security@downdetector.com" "security@ookla.com"] ""}
+{"handy.com" ["security@handy.com"] ""}
+{"textexpander.com" ["mailto:security@textexpander.com"] ""}
+{"google.com.pr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"doctoralia.com.mx" ["mailto:bugreporting@docplanner.com"] ""}
+{"spod.com" ["mailto:security@spreadshirt.net"] ""}
+{"azoaltou.com" [] ""}
+{"apnic.net" ["mailto:csirt@apnic.net"] ""}
+{"daisycon.com" ["mailto:tech@daisycon.com"] ""}
+{"angelrose.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aoshitomoe37.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bncprez.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bowiesnippleantennae.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cloudbees.com" ["mailto:security@cloudbees.com"] ""}
+{"cvebase.com" ["mailto:security@cvebase.com"] ""}
+{"listdejima.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"life-and-mind.com" [] ""}
+{"manatie37.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nicklethepickel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"not-the-end-1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"richardh.work" ["https://hackerone.com/automattic/reports/new"] ""}
+{"spotsavedinhell.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.mn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"netgate.com" ["mailto:security@netgate.com"] ""}
+{"viamichelin.com" [] ""}
+{"hemnet.se" ["mailto:security@hemnet.se"] "1 dec 2021 00:00:00 +0000"}
+{"jfrog.com" ["security@jfrog.com"] ""}
+{"viatepigan.com" [] ""}
+{"cikmiyoraklimdan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shopifycloud.com" [] ""}
+{"guardian.co.uk" ["mailto:appsec@theguardian.com"] ""}
+{"learnreligions.com" ["mailto:security@dotdash.com"] ""}
+{"bestaryua.com" [] ""}
+{"statuspage.io" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"google.com.tn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"zcu.cz" ["https://support.zcu.cz/index.php/wirt" "mailto:abuse@zcu.cz"] ""}
+{"greendot.com" ["vulnerabilitysubmissions@greendotcorp.com"] ""}
+{"megalodon.jp" [] ""}
+{"myprotein.co.kr" ["https://www.thg.com/security-issues/"] ""}
+{"aboutespanol.com" ["mailto:security@dotdash.com"] ""}
+{"ozlotteries.com" ["https://jumbointeractive.com/security-reporting"] ""}
+{"remind.com" ["https://hackerone.com/remind" "security@remindhq.com"] ""}
+{"senshiii.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nintendo.es" [] ""}
+{"mybb.com" ["https://community.mybb.com/forum-135.html" "mailto:security@mybb.com"] ""}
+{"doctoraliar.com" ["mailto:bugreporting@docplanner.com"] ""}
+{"ntppool.org" ["ask@ntppool.org" "help@ntppool.org"] ""}
+{"kpn.com" ["https://www.kpn.com/algemeen/missie-en-privacy-statement/security-vulnerability/report-security-vulnerability.htm" "mailto:cert@kpn-cert.nl"] ""}
+{"scattergoriesonline.net" ["mailto:categoriesonline@gmail.com"] ""}
+{"rise.com" ["mailto:security-disclosure@rise.com"] ""}
+{"oujouniw.com" [] ""}
+{"eitb.eus" ["mailto:teknologia_soporte@eitb.eus"] ""}
+{"bfiedler92.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tl.net" ["mailto:security@teamliquid.net"] ""}
+{"tinapphoto.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.al" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"intercom-attachments-5.com" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"shopify.hk" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"tyle.io" ["mailto:support@tyle.io"] ""}
+{"littlehotelier.com" ["security.officer@siteminder.com" "https://www.siteminder.com/contact"] ""}
+{"filestack.com" ["mailto:security@filestack.com"] ""}
+{"missiveapp.com" ["mailto:security@missiveapp.com"] ""}
+{"decathlon.hu" ["security@decathlon.com"] ""}
+{"canon.nl" ["product-security@canon-europe.com"] ""}
+{"opsgenie.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"securityheaders.com" ["security@scotthelme.co.uk" "https://twitter.com/scott_helme"] ""}
+{"doctoralia.cl" ["mailto:bugreporting@docplanner.com"] ""}
+{"twit.tv" ["https://twit.tv/about/contact"] ""}
+{"vanmoof.com" ["security@vanmoof.com"] ""}
+{"crimsoneducation.org" ["mailto:security@crimsoneducation.org"] ""}
+{"denikn.cz" ["security@dennikn.sk"] ""}
+{"cesnet.cz" ["https://csirt.cesnet.cz/en/contact" "mailto:certs@cesnet.cz"] ""}
+{"canon.cz" ["product-security@canon-europe.com"] ""}
+{"irozhlas.cz" ["mailto:internet@rozhlas.cz" "mailto:jan.pospisil@rozhlas.cz"] ""}
+{"michalzilinsky.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kupi.cz" ["mailto:vyvoj@kupi.cz"] ""}
+{"mujrozhlas.cz" ["mailto:internet@rozhlas.cz" "mailto:jan.pospisil@rozhlas.cz"] ""}
+{"o2tv.cz" ["mailto:security@etnetera.cz, jirovsky.vaclav@o2.cz"] ""}
+{"chollometro.com" ["security@chollometro.com"] ""}
+{"onlinejazyky.cz" ["info@onlinejazyky.cz" "cms@animato.cz"] ""}
+{"touchofclass.com" [] ""}
+{"consumersadvocate.org" [] ""}
+{"pipeschannels.com" [] ""}
+{"intercom.com" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"precisionnutrition.com" ["mailto:security@precisionnutrition.com"] ""}
+{"despegar.com.pe" ["seguridad@despegar.com"] ""}
+{"shopify.in" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"noticiasbarquisimeto.com" [] ""}
+{"traciefobes.com" [] ""}
+{"kolonial.no" ["security@kolonial.no"] ""}
+{"simsefin.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"skeidar.no" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"bosch.com" ["https://psirt.bosch.com/report-a-vulnerability/"] ""}
+{"contehos.com" [] ""}
+{"welivesecurity.com" ["mailto:security@eset.com"] ""}
+{"spareroom.com" ["mailto:security@spareroom.co.uk" "https://www.spareroom.com/contact.pl"] ""}
+{"sbab.se" ["sirt@sbab.se"] ""}
+{"yahoo-emarketing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mariadb.org" ["https://hackerone.com/mariadb" "security@mariadb.org"] ""}
+{"malyczlowiek.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sage.com.pl" ["soc@sage.com"] ""}
+{"znanylekarz.pl" ["mailto:bugreporting@docplanner.com"] ""}
+{"nevisesh.com" ["mailto:nevisesh.dev@gmail.com"] ""}
+{"avant.com" [] ""}
+{"readthedocs.org" [] ""}
+{"google.as" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"99designs.fr" ["mailto:security@99designs.com"] ""}
+{"vaebard.com" [] ""}
+{"jackson.com" ["cybersecurity@jackson.com"] ""}
+{"softplum.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"stonedgirrl.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"versacepr0mises.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whusebsu.com" [] ""}
+{"knowyourteam.com" ["https://federacy.com/knowyourteam"] ""}
+{"wire.com" ["vulnerability-report@wire.com"] ""}
+{"saumooly.net" [] ""}
+{"99designs.ca" ["mailto:security@99designs.com"] ""}
+{"mytrip.com" ["mailto:security@etraveligroup.com"] ""}
+{"footshop.hu" ["jan.kosco@footshop.cz"] ""}
+{"magyarpolc.hu" ["mailto:security@shoptet.cz"] ""}
+{"disabled-world.com" ["webmaster@disabled-world.com"] ""}
+{"sublet.com" [] ""}
+{"jupyter.org" ["mailto:security@ipython.org"] ""}
+{"fuckinghomepage.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"skimresources.com" [] ""}
+{"zavvi.com" ["https://www.thg.com/security-issues/"] ""}
+{"chesskid.com" ["https://support.chesskid.com/article/339-contact-us"] ""}
+{"terminals.io" ["lorenzo@evolve-pr.com"] ""}
+{"streamconex.com" [] ""}
+{"ccli.com" ["mailto:security@ccli.com"] ""}
+{"sk-ii.com" ["https://hackerone.com/proctergamble"] ""}
+{"twinkl.co.uk" ["@arbgae42g"] ""}
+{"cliogrow.com" ["https://www.clio.com/security/responsible-disclosure" "security@clio.com"] ""}
+{"kerumal.com" [] ""}
+{"tribalwars.net" ["mailto:security@innogames.com"] ""}
+{"amp.com.au" ["mailto:<see above>"] ""}
+{"blackanddecker.com" [] ""}
+{"gitpod.io" ["security@gitpod.io"] ""}
+{"staitchu.com" [] ""}
+{"stremio.com" ["mailto:security@stremio.com"] ""}
+{"uphold.com" ["mailto:security@uphold.com"] "wed, 13 apr 2021 10:35:00 -0000"}
+{"discountramps.com" [] ""}
+{"df.eu" ["mailto:security@df.eu"] ""}
+{"lboro.ac.uk" [] ""}
+{"gettimely.com" ["mailto:security@gettimely.com"] ""}
+{"amplifr.com" ["security@amplifr.com"] ""}
+{"iwanttoberecycled.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sourcetreeapp.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"5tn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paleinthenight.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"st-ell.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thcartierrug.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"redrola.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"diskinternals.com" ["https://www.diskinternals.com/support/"] ""}
+{"lcg.com" [] ""}
+{"chocolatey.org" ["mailto:security@chocolatey.io"] ""}
+{"jacksonandperkins.com" [] ""}
+{"google.co.ug" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"dachix.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"condenast.com" ["infosec@condenastint.com"] ""}
+{"kinorium.com" ["info+security@kinorium.com"] ""}
+{"overstock.ca" ["mailto:vulnerability@overstock.com" "https://www.overstock.com/security"] ""}
+{"dewalt.com" [] ""}
+{"theseoframework.com" ["https://theseoframework.com/contact/"] ""}
+{"vistaprint.co.uk" ["bugbounty@cimpress.com"] ""}
+{"enjin.io" ["https://enj.in/security"] ""}
+{"downdetector.in" ["security@downdetector.com" "security@ookla.com"] ""}
+{"google.ht" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"sanity.io" ["mailto:security@sanity.io"] ""}
+{"binance.cc" ["security@binance.com"] ""}
+{"funnyp.co" [] ""}
+{"workato.com" ["mailto:security@workato.com"] ""}
+{"ikunselt.com" [] ""}
+{"canon.fr" ["product-security@canon-europe.com"] ""}
+{"domainesia.com" ["abuser@domainesia.com" "abuser@domainesia.com"] ""}
+{"isixsigma.com" ["mailto:security@webxmedia.com"] ""}
+{"apotelyt.com" [] ""}
+{"bitdegree.org" ["security@bitdegree.org"] ""}
+{"popinabox.us" ["https://www.thg.com/security-issues/"] ""}
+{"ctftime.org" ["https://ctftime.org/feedback" "mailto:info@ctftime.org"] ""}
+{"mindareadsoots.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"geekzone.co.nz" ["security@geekzone.co.nz" "https://twitter.com/freitasm"] ""}
+{"suse.com" ["mailto:webadmin@suse.com"] ""}
+{"carthage.edu" ["larry@carthage.edu" "+1-262-551-2455" "https://www.carthage.edu/lis/internet-security-threats/"] ""}
+{"dxpresick.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gyo.tc" [] ""}
+{"katsujii.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"moonisfrogman.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sonumal.com" [] ""}
+{"comics.org" ["https://www.comics.org/contact/"] ""}
+{"browserleaks.com" ["https://browserleaks.com/#footer"] ""}
+{"vintag.es" ["https://hackerone.com/automattic/reports/new"] ""}
+{"plugin-alliance.com" ["security@plugin-alliance.com"] ""}
+{"coggles.com" ["https://www.thg.com/security-issues/"] ""}
+{"ubnt.com" ["security@ui.com"] ""}
+{"intercom-attachments-1.com" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"nintendo-europe.com" [] ""}
+{"findery.com" [] ""}
+{"visana.ch" ["mailto:security@visana.ch"] ""}
+{"tourradar.com" ["mailto:security@tourradar.com"] ""}
+{"johndeere.com" ["https://www.deere.com/en/forms/corporate/it-security-consulting/"] ""}
+{"spreadshirt.fr" ["mailto:security@spreadshirt.net"] ""}
+{"shopify.co.uk" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"detectify.com" ["disclosure@detectify.com"] ""}
+{"btc-alpha.com" ["dev@btc-alpha.com"] ""}
+{"glaksads.net" [] ""}
+{"digwebinterface.com" ["comments@digwebinterface.com"] ""}
+{"wakatime.com" ["security@wakatime.com"] ""}
+{"downdetector.com.au" ["security@downdetector.com" "security@ookla.com"] ""}
+{"gotogate.com" ["mailto:security@etraveligroup.com"] ""}
+{"stripe.network" [] ""}
+{"ofphanpytor.com" [] ""}
+{"boxcryptor.com" ["mailto:security@boxcryptor.com"] ""}
+{"tryg.dk" ["https://tryg.com/en/responsible-disclosure" "mailto:irt@tryg.com"] "tue, 30 nov 2021 12:00:00 +0200"}
+{"scotthelme.co.uk" ["mailto:security@scotthelme.co.uk" "https://twitter.com/scott_helme"] ""}
+{"fishpond.co.nz" ["https://openbugbounty.org/bugbounty/kelvinlomberg/"] ""}
+{"eventcinemas.com.au" ["mailto:security@evt.com"] ""}
+{"optimalprint.com.au" ["responsible.disclosure@gelato.com" "privacy@gelato.com"] ""}
+{"togranbulla.com" [] ""}
+{"spreadshirt.net" ["mailto:security@spreadshirt.net"] ""}
+{"australia.gov.au" ["mailto:ausgov@dta.gov.au\rpreferred-languages: en"] ""}
+{"americanmind.org" ["mailto:security@beckandstone.com"] ""}
+{"google.ml" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"parkseed.com" [] ""}
+{"relevant.software" ["mailto:security@relevant.software"] ""}
+{"edestinos.com.pe" [] ""}
+{"olay.com" ["https://hackerone.com/proctergamble"] ""}
+{"datto.com" ["mailto:csirt-notify@datto.com"] "sun, 1 jan 2023 00:00:00 -0500"}
+{"google.tl" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"ammankeyan.com" [] ""}
+{"mimovrste.com" ["mailto:abuse@mallgroup.com"] ""}
+{"bankid.com" ["responsible-disclosure@bankid.com"] ""}
+{"waikato.ac.nz" ["mailto:it-security@waikato.ac.nz"] ""}
+{"auvik.com" ["incident@auvik.com"] ""}
+{"onvictinitor.com" [] ""}
+{"skypixel.com" [] ""}
+{"packagetrackr.com" [] ""}
+{"thepiratebay.asia" [] ""}
+{"unops.org" ["https://unops.org/contact-us"] ""}
+{"abonentinfo.com" ["support@abonentinfo.com"] ""}
+{"alza.hu" ["https://www.alza.cz/kontakt/ostatni.htm?qgid=66&qid=316" "tel:+420 725 872 004"] ""}
+{"noizz.hu" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"mall.hu" ["mailto:abuse@mallgroup.com"] ""}
+{"taxfix.de" ["mailto:security@taxfix.de"] ""}
+{"shopify.my" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"atrapalo.cl" ["mailto:security@atrapalo.com" "https://keybase.io/atrapalo"] ""}
+{"angelosandrogyny.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"crystolpistol.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"louxosenjoyables.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"malfoygasmic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"solaces.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"terrymagson.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mcqs.az" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"netmums.com" [""] ""}
+{"deno.land" ["mailto:ry@tinyclouds.org"] ""}
+{"gig.id" [] ""}
+{"intercom.io" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"stylebook.de" ["https://www.axelspringer.com/en/cyber-security" "mailto:security-incident@axelspringer.de"] ""}
+{"usersearch.org" [] ""}
+{"google.co.zm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"gear4music.dk" ["security@g4m.co.uk"] ""}
+{"designers-first.dk" [] ""}
+{"unbabel.com" ["mailto:security@unbabel.com"] ""}
+{"midwestsports.com" [] ""}
+{"sfr.com" ["psirt-ct@sfr.com"] ""}
+{"drive.ru" ["mailto:security@drive2.ru"] ""}
+{"serconmp.com" [] ""}
+{"shopify.fr" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"linkedin.cn" ["mailto:security@linkedin.com" "https://www.linkedin.com/help/linkedin/answer/62924"] ""}
+{"celonis.com" ["mailto:security-incident@celonis.com"] ""}
+{"therestaurantstore.com" ["security-reports@clarkinc.biz"] ""}
+{"truworths.co.za" [] ""}
+{"aissoksu.net" [] ""}
+{"twinkl.com" ["@arbgae42g"] ""}
+{"google.com.bn" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"programming-idioms.org" ["deleplace2015@gmail.com"] ""}
+{"otrwaram.com" [] ""}
+{"robocorp.com" ["mailto:security@robocorp.com"] ""}
+{"particle.io" ["mailto:security@particle.io"] ""}
+{"1istochnik.ru" [] ""}
+{"whitelabeldating.com" ["mailto:security@venntro.com"] "mon, 22 nov 2021 12:00:00 +0000"}
+{"glance.net" ["mailto:security@glance.net"] ""}
+{"teamliquid.net" ["mailto:security@teamliquid.net"] ""}
+{"9ty1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cheapies.nz" ["mailto:contact@cheapies.nz" "https://www.cheapies.nz/contact"] ""}
+{"kit.edu" ["mailto://cert@kit.edu"] ""}
+{"sage.co.uk" ["soc@sage.com"] ""}
+{"canon.ru" ["product-security@canon-europe.com"] ""}
+{"vistaprint.ca" ["bugbounty@cimpress.com"] ""}
+{"science.gov" [] ""}
+{"doaipomer.com" [] ""}
+{"apk.center" [] ""}
+{"curve.com" [] ""}
+{"hdonlinemart.com" [] ""}
+{"vistaprint.fr" ["bugbounty@cimpress.com"] ""}
+{"handsontable.com" ["mailto:admin@handsontable.com"] ""}
+{"unbelievablefactsblog.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cntraveller.com" ["cndtriage@condenast.co.uk"] ""}
+{"lhv.ee" ["security@lhv.ee" "https://www.lhv.ee/en/security"] "thu, 31 dec 2022 12:00:00 +0200"}
+{"youfly.com" ["mailto:mandrakis@gmail.com"] ""}
+{"iwoot.us" ["https://www.thg.com/security-issues/"] ""}
+{"4boyzuk1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sinavtime.com" [] ""}
+{"inspectusa.com" [] ""}
+{"emsisoft.com" ["mailto:security@emsisoft.com"] ""}
+{"disneymovieinsiders.com" [] ""}
+{"goodwillnne.org" ["mailto:info@goodwillnne.org"] ""}
+{"iconsumer.com" [] ""}
+{"myzenkey.com" ["https://myzenkey.com/security/"] ""}
+{"postini.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"scroll.com" ["security@scroll.com"] ""}
+{"shopify.ca" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"forgerock.com" ["mailto:security@forgerock.com"] ""}
+{"bowtie.com.hk" ["security@bowtie.com.hk"] ""}
+{"cloudflarestatus.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"epam.com" ["mailto:contact.security@epam.com"] ""}
+{"thg.com" ["https://www.thg.com/security-issues/"] ""}
+{"bluetooth.com" ["mailto:security@bluetooth.com" "https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/reporting-security/"] "18 sep 2021 00:00:00 -0700"}
+{"gear4music.ch" ["security@g4m.co.uk"] ""}
+{"vulkal.hr" [] ""}
+{"platform.sh" ["security@platform.sh"] ""}
+{"kupibilet.ru" ["mailto:iib@kupibilet.ru"] ""}
+{"hidglobal.com" ["https://www.hidglobal.com/security-center"] ""}
+{"inspire.com" ["mailto:admins@inspire.com"] ""}
+{"cdn77.com" ["mailto:jan.krpes@cdn77.com"] ""}
+{"noagliph.com" [] ""}
+{"technicolor.com" ["mailto:security@technicolor.com"] ""}
+{"google.mk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"ofdittor.com" [] ""}
+{"juankaleb.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"canon-ois.qa" ["product-security@canon-europe.com"] ""}
+{"qatarsteel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hitwe.com" [] ""}
+{"footshop.com" ["jan.kosco@footshop.cz"] ""}
+{"papercut.com" ["mailto:security@papercut.com"] ""}
+{"lancaster.ac.uk" ["mailto:breach-notification@lancaster.ac.uk"] ""}
+{"skbkontur.ru" ["mailto:security@skbkontur.ru" "mailto:security@kontur.ru"] ""}
+{"klanlar.org" ["mailto:security@innogames.com"] ""}
+{"shopify.com.ng" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"despegar.co.cr" ["seguridad@despegar.com"] ""}
+{"airship.com" ["mailto:security@airship.com"] ""}
+{"paris.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"preloved.co.uk" ["https://www.thg.com/security-issues/"] ""}
+{"texthelp.com" ["security@texthelp.com"] ""}
+{"liamghaano.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"switch.ch" ["cert@switch.ch" "https://www.switch.ch/security/contact/"] ""}
+{"accenturealumni.com" ["mailto:security@conenza.com"] ""}
+{"houseandgarden.co.uk" ["cndtriage@condenast.co.uk"] ""}
+{"itempurl.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"around.co" ["mailto:security@around.co"] ""}
+{"oversize.io" ["security@oversize.io"] ""}
+{"mx.com" ["vulns@mx.com"] ""}
+{"parentsquare.com" [] ""}
+{"khronos.org" [] ""}
+{"exam.net" ["security@exam.net"] ""}
+{"vinted.lt" ["security@vinted.com"] "thu, 14 jan 2021 04:07:07 -0000"}
+{"rittchiardi-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.la" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"nucleusfinancial.com" ["security@nucleusfinancial.com"] ""}
+{"nettitude.com" ["mailto:soc@nettitude.com"] ""}
+{"fasthosts.co.uk" ["security@fasthosts.com"] ""}
+{"aegon.com" ["csiso@aegon.com"] ""}
+{"starlink.com" ["mailto:vulnerabilityreporting@spacex.com"] ""}
+{"panic.com" ["mailto:security@panic.com"] ""}
+{"jlg.com" ["sirt@oshkoshcorp.com [^security.txt]"] ""}
+{"tedomum.net" ["admin@tedomum.net"] ""}
+{"tribalwars.ae" ["mailto:security@innogames.com"] ""}
+{"vicks.com" ["https://hackerone.com/proctergamble"] ""}
+{"organicboy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"stofa.dk" ["security@norlys.dk" "[tel:+4588327116]"] ""}
+{"anidb.net" ["mailto:info@anidb.net"] ""}
+{"uu.se" ["https://www.uu.se/en/about-uu/contact/"] ""}
+{"termius.com" ["security@termius.com"] ""}
+{"adppayroll.com.au" ["mailto:vulnerabilityreporting@adp.com"] ""}
+{"doversaddlery.com" [] ""}
+{"pfsense.org" ["mailto:security@netgate.com"] ""}
+{"broadbandforum.co" [] ""}
+{"schroders.com" [] ""}
+{"mountainwarehouse.com" ["websitesecurity@mountainwarehouse.com"] ""}
+{"onlyoffice.com" ["mailto:security@onlyoffice.com"] ""}
+{"silverstripe.org" ["security@silverstripe.org" "https://docs.silverstripe.org/en/contributing/release_process/#security-releases"] ""}
+{"zen.co.uk" ["security@zen.co.uk"] ""}
+{"kontent.ai" ["mailto:security@kentico.com"] ""}
+{"infernl92.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paythem.net" ["https://paythem.net/contact"] ""}
+{"atlassian.design" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"jaftouja.net" [] ""}
+{"rewind.io" ["security@rewind.io"] ""}
+{"downdetector.it" ["security@downdetector.com" "security@ookla.com"] ""}
+{"xn--allestrungen-9ib.ch" ["security@downdetector.com" "security@ookla.com"] ""}
+{"pirelli.com" ["mailto:cert@pirelli.com"] ""}
+{"thezodiackiller666.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fxprimus.com" ["mailto:security@fxprimus.com"] ""}
+{"gameknot.com" ["https://gameknot.com/contact.pl?q=security+issue&for=gk"] ""}
+{"worldwidescience.org" [] ""}
+{"adminer.org" ["mailto:jakub@vrana.cz"] ""}
+{"noizz.rs" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"footshop.gr" ["jan.kosco@footshop.cz"] ""}
+{"christophers-obsessions.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"claremontreviewofbooks.com" ["mailto:security@beckandstone.com"] ""}
+{"psensuds.net" [] ""}
+{"doflygonan.com" [] ""}
+{"snopyta.org" ["mailto:security@snopyta.org"] ""}
+{"zyxel.com" ["security@zyxel.com.tw"] ""}
+{"expertise.tv" [] ""}
+{"irccloud.com" ["https://hackerone.com/irccloud"] ""}
+{"newloverofbeauty.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"the-lady-vampire.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"adrenaline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bigdaddykelly.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"becauseimfatthatswhy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"badillacs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chillxmami.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"buckyinwonderland.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"countryboydeluxe.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"d3ad-but-still-walking.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"daddyslilpixie.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fuckyeahbrutalism.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hiyokori.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hieunbi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jokerandthethief63.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kindnes-ss.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"leeivy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"matialonsorphoto.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mercury.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"monstersandhellhounds.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"never----lose----hope.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"plejada.pl" ["mailto:security@ringieraxelspringer.pl"] ""}
+{"safeasmilk.co" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ripcurl.com" [] ""}
+{"skincarerx.com" ["https://www.thg.com/security-issues/"] ""}
+{"softporn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"theoandharris.com" ["info@theoandharris.com"] ""}
+{"thoselipsharry.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thewanderingdreamer.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"faigroas.net" [] ""}
+{"totaljs.com" ["mailto:support@totaljs.com" "https://www.totaljs.com/contact/"] ""}
+{"shorteh.com" [] ""}
+{"starlingbank.com" ["disclosure@starlingbank.com"] ""}
+{"wautoosa.net" [] ""}
+{"linnworks.net" ["mailto:productsecurity@linnworks.com"] ""}
+{"excerptsofstories.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"geteml.com" [] ""}
+{"lily.fi" ["mailto:it-security@a-lehdet.fi"] ""}
+{"despegar.com.mx" ["seguridad@despegar.com"] ""}
+{"edestinos.com.mx" ["mailto:security@esky.com"] ""}
+{"elmatissedemelissa.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jcrew.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"psychmajors.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"soul-2020-ver-online.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thecollective.com" ["mailto: infosec@thecollective.com"] ""}
+{"voxsartoria.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ww84-online-hd.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rta.qld.gov.au" ["mailto:security@catalyst-au.net"] "fri, 16 oct 2021 15:38:56 +1000"}
+{"zenhr.com" ["mailto: devops@zenhr.com"] ""}
+{"tugraz.at" ["mailto:cert@tugraz.at" "phone:+43-316-873/7000"] ""}
+{"quasimentrien.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"probikekit.com" ["https://www.thg.com/security-issues/"] ""}
+{"sakiroll.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"track4ref.com" [] ""}
+{"zazzle.fr" ["the email address \"security\" on the domain \"zazzle.com\""] ""}
+{"zazzle.ca" ["the email address \"security\" on the domain \"zazzle.com\""] ""}
+{"jeffhirsch.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rushcard.com" ["vulnerabilitysubmissions@greendotcorp.com"] ""}
+{"augaufta.com" [] ""}
+{"inventoraircondition.gr" ["security [at] inventor [dot] ac"] ""}
+{"agedcareguide.com.au" ["mailto:security@dps.com.au"] ""}
+{"aledade.com" ["mailto:ccpa@aledade.com"] ""}
+{"ashlink.com" [] ""}
+{"vps.net" ["mailto:securitybugs@thehutgroup.com"] ""}
+{"hyperpure.com" ["mailto:security@zomato.com"] ""}
+{"onliveserver.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"roche.com" ["mailto:security@roche.com"] ""}
+{"runnr.in" ["mailto:security@zomato.com"] ""}
+{"unknownworlds.com" ["lukas@unknownworlds.com"] ""}
+{"caiteesh.net" [] ""}
+{"google.com.jm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"veriff.com" ["mailto:security@veriff.net"] ""}
+{"ruskline.ru" [] ""}
+{"guidedhacking.com" ["admin@guidedhacking.com"] ""}
+{"myprotein.gr" ["https://www.thg.com/security-issues/"] ""}
+{"fm-p.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"trefoiled.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mamamakishima.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"touch-of-love.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"twinkl.co.in" ["@arbgae42g"] ""}
+{"getgist.help" [] ""}
+{"decathlon.es" ["security@decathlon.com"] ""}
+{"walmartmoneycard.com" ["vulnerabilitysubmissions@greendotcorp.com"] ""}
+{"bittube.video" ["https://github.com/chocobozzz/peertube/blob/develop/security.md" "mailto:admin@bittube.video"] ""}
+{"jewistthemes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"twinkl.com.au" ["@arbgae42g"] ""}
+{"tresorit.com" ["security@tresorit.com"] ""}
+{"doctoralia.com.br" ["mailto:bugreporting@docplanner.com"] ""}
+{"weddingchannel.com" ["security [at] xogrp [dot] com"] ""}
+{"materlotteries.com.au" ["https://jumbointeractive.com/security-reporting"] ""}
+{"afroklectic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"canon.co.uk" ["product-security@canon-europe.com"] ""}
+{"lifecell.ua" ["bounty@lifecell.com.ua"] ""}
+{"canon.com.tr" ["product-security@canon-europe.com"] ""}
+{"netflixcenter.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nikepolar.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sweetsanguine.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vandykes.com" [] ""}
+{"emlway.com" [] ""}
+{"yttompthree.com" [] ""}
+{"downdetector.cl" ["security@downdetector.com" "security@ookla.com"] ""}
+{"xpiaink.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sapien.com" ["https://www.sapien.com/company/contact"] ""}
+{"afarinak.com" [] ""}
+{"festanca.sk" ["mailto:security@studiotem.com"] ""}
+{"augustplay.com" [] ""}
+{"breitling.com" ["mailto:security@breitling.com"] ""}
+{"digitechbits.com" [] ""}
+{"nashrin.com" [] ""}
+{"count.ly" ["mailto:security@count.ly" "https://count.ly/contact"] ""}
+{"kustaucu.com" [] ""}
+{"notimerica.com" [] ""}
+{"spreadshirt.com.au" ["mailto:security@spreadshirt.net"] ""}
+{"uriports.com" ["mailto://freddie@leemankuiper.nl" "mailto://freddie@freddieleeman.nl"] ""}
+{"cauvede.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"beludicolor.com" [] ""}
+{"alzashop.com" ["https://www.alza.cz/kontakt/ostatni.htm?qgid=66&qid=316" "tel:+420 725 872 004"] ""}
+{"projectlombok.org" ["https://tidelift.com/security" "mailto:info@projectlombok.org"] ""}
+{"grenoble.fr" ["security@lametro.fr"] ""}
+{"mycsharp.de" ["team@mycsharp.de"] ""}
+{"myprotein.ch" ["https://www.thg.com/security-issues/"] ""}
+{"shopify.de" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"ptoumsid.net" [] ""}
+{"woke.id" [] ""}
+{"annalect.com" [] ""}
+{"brivity.com" [] ""}
+{"elvie.com" ["security@elvie.com"] ""}
+{"mortiferae.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nbajerseydatabase.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"similarworlds.com" ["mailto:admin@similarworlds.com"] ""}
+{"zadig-et-voltaire.com" ["mailto:web@zadigetvoltaire.com"] ""}
+{"humorguevon.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"midootib.net" [] ""}
+{"utopiarol.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fuckingprincesslia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"twinkl.com.ng" ["@arbgae42g"] ""}
+{"adsrv.org" ["mailto:sec@adsrv.org"] ""}
+{"ftempurl.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"rompuwit.net" [] ""}
+{"spreadshop.com" ["mailto:security@spreadshirt.net"] ""}
+{"voicethread.com" ["https://voicethread.com/support/contact/#privacy"] ""}
+{"tagaloglang.com" [] ""}
+{"avgold.co.za" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hotchatgirl.xyz" ["https://hackerone.com/github"] ""}
+{"fatmap.com" ["mailto:security@fatmap.com"] ""}
+{"up.com.au" ["security@up.com.au"] ""}
+{"google.lu" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"erau.edu" ["mailto:security@erau.edu"] ""}
+{"secureworks.com" ["security@secureworks.com"] ""}
+{"x-minus.co.ua" [] ""}
+{"gene.com" ["mailto:security@roche.com"] ""}
+{"inspikon.com" [] ""}
+{"99designs.com.sg" ["mailto:security@99designs.com"] ""}
+{"aroflo.com" ["mailto:admin@aroflo.com"] ""}
+{"ahgconnect.org" ["security@ahginc.org"] ""}
+{"cubiclecodes.com" [] ""}
+{"grandhotelabyss.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hotelurbano.com.br" ["mailto:security@hurb.com"] ""}
+{"lightbend.com" ["mailto:security@lightbend.com"] ""}
+{"rockhardfiles.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"theburninghills.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whitingsystems.com" [] ""}
+{"wyrmguardsecrets.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"youngmalemodels.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"get-express-vpn.xyz" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"allsole.com" ["https://www.thg.com/security-issues/"] ""}
+{"google.sr" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"backmarket.fr" ["mailto:security@backmarket.com"] "mon, 07 jun 2021 00:00:00 -0800"}
+{"outchinchour.com" [] ""}
+{"myprotein.ae" ["https://www.thg.com/security-issues/"] ""}
+{"8fit.com" ["mailto:security@8fit.com"] ""}
+{"terra-natur.com" [] ""}
+{"fishpond.com.au" ["https://openbugbounty.org/bugbounty/kelvinlomberg/"] ""}
+{"zazzle.com.au" ["the email address \"security\" on the domain \"zazzle.com\""] ""}
+{"grubsoan.com" [] ""}
+{"vashoaft.net" [] ""}
+{"whatsnewonnetflix.com" ["info@whatsnewonnetflix.com"] ""}
+{"bunnyartists.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sonarqube.org" ["security@sonarsource.com"] ""}
+{"win365nhacai.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fnal.gov" ["cybersecurity@fnal.gov"] ""}
+{"eurocontrol.int" ["mailto:security@eurocontrol.int"] ""}
+{"madebyspeak.com" ["mailto:matt.grayson@speakcreative.com"] ""}
+{"atl-paas.net" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"abbronzongor.com" [] ""}
+{"oralb.com" ["https://hackerone.com/proctergamble"] ""}
+{"taylorswiftstyle.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.sc" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.rw" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"downdetector.com.co" ["security@downdetector.com" "security@ookla.com"] ""}
+{"vinted.com" ["security@vinted.com"] "thu, 14 jan 2021 05:42:32 -0000"}
+{"thugmegle.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thestarscomeoutinundies.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"culturaocio.com" [] ""}
+{"flagfox.net" ["https://flagfox.net/" "https://twitter.com/rleeden"] ""}
+{"lesfurets.com" ["mailto:security@lesfurets.com"] ""}
+{"gsma.com" ["security@gsma.com"] ""}
+{"1and1.com" ["mailto:security@ionos.com"] ""}
+{"1and1.es" ["mailto:security@ionos.com"] ""}
+{"3v.fi" ["mailto:security@3v.fi"] ""}
+{"aarongell.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"attackontitanseason4episode4.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"babor.com" [] ""}
+{"californiakindofkid.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chefclub.tv" ["security@chefclub.tv"] ""}
+{"clarkinet.com" ["security-reports@clarkinc.biz"] ""}
+{"demonic-pulse.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"discoverpassenger.com" ["security@passengerteam.com"] ""}
+{"fionaapplerocks.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"first.org" ["mailto:bugs@first.org"] ""}
+{"glookalr.com" [] ""}
+{"goldenpinof.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"glossybox.com" ["https://www.thg.com/security-issues/"] ""}
+{"greenhouselab.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hurb.com" ["mailto:security@hurb.com"] ""}
+{"i-peg-your-pardon.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"invorderingsbedrijf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jigglypuffsvevo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"juliekbeachum.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ladygallifreym-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lifestylelounge.com" ["mailto:hal9000@lifestylelounge.com"] ""}
+{"misenreviews.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"missguided.com" ["mailto:cybersecurity@missguided.com"] ""}
+{"monexpay.com" ["security@monexeurope.com"] ""}
+{"my-foodie-luv.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"myradarconnect.com" ["mjansen@radarmed.com"] ""}
+{"oberon-media.com" [] ""}
+{"olaycom-staging.mybigcommerce.com" ["https://hackerone.com/proctergamble"] ""}
+{"pcmusic.info" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pennysaviour1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pink-lemonade-rose.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pittmandavis.com" [] ""}
+{"phoobsoo.net" [] ""}
+{"plataformainvestigadoresucm.org" ["https://hackerone.com/automattic/reports/new"] ""}
+{"playatmcd.com" ["dataquestions@us.mcd.com"] ""}
+{"probely.com" ["security@probely.com"] ""}
+{"recon.com" [] ""}
+{"runescapeoutfits.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"schoneschatze.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"smilesoftware.com" ["mailto:security@smilesoftware.com"] ""}
+{"smaubts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sultry-heels.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"texasblogger.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"theamericanstorypodcast.org" ["mailto:security@beckandstone.com"] ""}
+{"the-west.net" ["mailto:security@innogames.com"] ""}
+{"tikcreator.com" [] ""}
+{"usabusinesslisting.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"victoriansword.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"voirlvmer.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"watchinghallmark.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wearethe99percent.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whitepeopletwitter.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"zoe-oneesama.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"zoomshift.com" [] ""}
+{"fok.nl" ["https://twitter.com/breuls" "'breuls' at this domain."] ""}
+{"icanhazip.com" [] ""}
+{"lbr.lu" ["mailto:security@ctie.etat.lu" "https://www.govcert.lu/online_form" "mailto:soc@govcert.etat.lu" "mailto:ctie@protonmail.com"] ""}
+{"journalxtra.com" [] ""}
+{"omareeper.com" [] ""}
+{"philo.com" ["security@philo.com"] ""}
+{"stanleytools.com" [] ""}
+{"keeptaza.com" [] ""}
+{"google.tg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"usanalytics.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"promofarma.com" ["mailto:security@promofarma.com"] ""}
+{"twinkl.co.th" ["@arbgae42g"] ""}
+{"google.ng" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"msd.govt.nz" ["it_security@msd.govt.nz"] ""}
+{"dwaes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"downloadsoftwaregratisan.com" ["mailto:hostmaster@downloadsoftwaregratisan.com"] ""}
+{"dnacademy.com" ["mailto:security@webxmedia.com"] ""}
+{"cgsecurity.org" ["mailto:grenier@cgsecurity.org"] ""}
+{"pumtaimp.com" [] ""}
+{"google.kg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"punters.com.au" ["security@punters.com.au"] ""}
+{"aggrawalblog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mollie.nl" ["security@mollie.com"] ""}
+{"evilmartians.com" ["mailto:security@evilmartians.com"] ""}
+{"exoscale.com" ["mailto:security@exoscale.com"] ""}
+{"batel.ru" [] ""}
+{"exact.com" ["mailto:responsible-disclosure [at] exact [dot] com"] ""}
+{"freelancehunt.work" ["security@freelancehunt.com"] ""}
+{"nodecraft.com" ["security@nodecraft.com"] ""}
+{"downdetector.ru" ["security@downdetector.com" "security@ookla.com"] ""}
+{"spreadshirt.co.uk" ["mailto:security@spreadshirt.net"] ""}
+{"reachtheworldonfacebook.com" ["https://reachtheworldonfacebook.com/whitehat/report/"] ""}
+{"dentistinballarat.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"doctoralia.pe" ["mailto:bugreporting@docplanner.com"] ""}
+{"temettuemeklisi.com" [] ""}
+{"swello.com" ["mailto:security@swello.com"] ""}
+{"thepiratebay.fun" [] ""}
+{"streetcheck.co.uk" ["https://www.streetcheck.co.uk/about/contact" "+44 1752 690 786"] ""}
+{"utu.fi" ["mailto:security@utu.fi"] "wed, 1 jan 2025 00:00:00 +0200"}
+{"samba.org" ["mailto:security@samba.org"] ""}
+{"notos.co" ["mailto:security@notos.co"] ""}
+{"sidefx.com" ["mailto:security@sidefx.com"] ""}
+{"voyna-plemyon.ru" ["mailto:security@innogames.com"] ""}
+{"aryasclinic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"orcon.net.nz" ["mailto:security@vocusgroup.co.nz"] ""}
+{"twinkl.co.nz" ["@arbgae42g"] ""}
+{"bejolteonor.com" [] ""}
+{"bitmain.com.cn" [] ""}
+{"despegar.com" ["seguridad@despegar.com"] ""}
+{"belombrea.com" [] ""}
+{"whooosreading.org" [] ""}
+{"server-panel.net" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"pickstitches.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"promotique.com.au" ["bugbounty@cimpress.com"] ""}
+{"roujaufu.net" [] ""}
+{"sansiri.com" ["mailto:security@sansiri.com"] ""}
+{"google.com.mt" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"thuoctot247.com" [] ""}
+{"dentalspecialtips.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fineartstudioonline.com" [] ""}
+{"countrywidesteel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"flic.kr" ["https://hackerone.com/flickr"] ""}
+{"intercom-attachments-3.com" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"maximumtravelerwonderland.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sonarsource.com" ["security@sonarsource.com"] ""}
+{"bezdroza.pl" ["security@helion.pl"] ""}
+{"zipnadazilch.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"nslookup.io" ["https://www.nslookup.io/contact-us/"] ""}
+{"gritchuw.com" [] ""}
+{"onlinehashcrack.com" [] ""}
+{"ashutentaran.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"edas.info" ["mailto:help@edas.info"] ""}
+{"twinkl.ae" ["@arbgae42g"] ""}
+{"nutcall.com" [] ""}
+{"tribalwars2.com" ["mailto:security@innogames.com"] ""}
+{"allbusinesstemplates.com" ["info@ren-it.net"] ""}
+{"sayartii.com" [] ""}
+{"superholybear.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cinetecaparararos.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"despegar.com.co" ["seguridad@despegar.com"] ""}
+{"doctoralia.co" ["mailto:bugreporting@docplanner.com"] ""}
+{"movistar-formularios-dot-modified-wonder-87620.appspot.com" [] ""}
+{"soul-descargar-pelicula-online.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"soul-online-gratis-hd.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"myprotein.ru" ["https://www.thg.com/security-issues/"] ""}
+{"xpress-vpn.com" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"stratisiot.com" ["security@stratisiot.com"] ""}
+{"google.com.iq" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"turbo.fr" ["website-security@odiso.com"] ""}
+{"gopay.com" ["mailto:securityupdates@gopay.cz"] ""}
+{"lookfantastic.com.hk" ["https://www.thg.com/security-issues/"] ""}
+{"1337in7h357r337n337in7h35h3375.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"2blave.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"a1courier.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"adda-ms-world.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amateurartcurator.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amarte-en-silencio.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amerrylife.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amleo.com" [] ""}
+{"an-esth-etic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ao3commentoftheday.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"argo.ai" ["ext-cyber@argo.ai"] ""}
+{"artoftheglitch.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"astro-crab.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"awangggggg-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"awritinghabit.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"axennue-blog-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"backlinks.io" ["https://hackerone.com/automattic/reports/new"] ""}
+{"benttreedesignco.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bitchsass.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"black-is-no-colour.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bostitch.com" [] ""}
+{"business.page" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"buyamericamoves.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bybox.com" ["infosec@bybox.com"] ""}
+{"byggmakker.no" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"carlislefsp.com" ["mailto:infosec@cfsbrands.com"] ""}
+{"chastity4uand4always.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chatnoirs-baton.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chinesemenu.com" [] ""}
+{"citys-skyline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"clientsearch.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"comiccrusaders.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cor-ta.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"coqueteldethc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"corenttech.com" ["security@corenttech.com"] ""}
+{"cosmos-jpg.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cornrstone978.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"coumskua.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"country-guitar-gent.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dahaivv-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dailyhangover.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"danskjavlarna.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dark-water-siren.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dawn-dish.com" ["https://hackerone.com/proctergamble"] ""}
+{"deepnote.com" ["mailto:security@deepnote.com"] ""}
+{"dictatorinperpetvo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dimisnothere.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"discordmoji.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"disneyvideonerd.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"driptrk.com" [] ""}
+{"dt-gm.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"eighthmark.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"emilyslist.org" ["security@emilyslist.org"] ""}
+{"excdus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"expivi.com" ["info@teaminova.nl"] ""}
+{"fairycosmos.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"faeriekitten.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fern.org" ["security@liquidlight.co.uk"] ""}
+{"filmtyping.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fishpond.com" ["https://openbugbounty.org/bugbounty/kelvinlomberg/"] ""}
+{"foodways2017.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"foxnet2017.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fujisan-ni-noboru-hinode.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"friendfeed.com" ["https://www.facebook.com/whitehat/report/"] ""}
+{"furiwokaaan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gearset.com" ["mailto:security@gearset.com"] ""}
+{"ghospice.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ghostof.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.com.vc" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"gothbutterfly.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"grumpyinfp.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"guyyanai.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"haacked.com" ["mailto:security@haacked.com" "https://twitter.com/haacked"] ""}
+{"hand.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hatnote.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hcahealthcare.com" ["mailto:information.protection@hcahealthcare.com"] ""}
+{"hellish-b0y.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hiveblog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hlebo.com" [] ""}
+{"hopelessvelleity.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hyperscience.com" ["mailto:security@hyperscience.com"] ""}
+{"idontcareilovedick.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"incorrect-sides-quotes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ioiohekate.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"irwin.com" [] ""}
+{"iwouldvebeendrake01.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jessicarenvaughan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jonroru.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"justineangelrococo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"khantoelessar.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kingrioji.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kitsuneh.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kiyoitsukikage.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"klassdocs.com" [] ""}
+{"koizumicchi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"knockrentals.com" ["security@knockrentals.com"] ""}
+{"kyrfiore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lagaleriapopurri.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"leggeteconme.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lightlylillium.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"londonista59.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"longislandairpower.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"love-personal.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lovedonkarlos-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"macabacus.com" ["mailto:security@macabacus.com"] ""}
+{"makjohn7.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"marcosemporium.com" ["mailto:security@nitrosell.com"] ""}
+{"marsynoah.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"maureen2musings.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mediaimpact.de" ["https://www.axelspringer.com/en/cyber-security" "mailto:security-incident@axelspringer.de"] ""}
+{"meowingmoth.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"metronymy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mi-celu-tiene-linternita.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"midphase.com" ["mailto:securitybugs@thehutgroup.com"] ""}
+{"mo0n--eyes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"monovod.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mostlycatsmostly.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"motivational-sonic-quotes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"musicbomba.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mux.com" ["https://mux.com/security"] ""}
+{"myfairylily.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"myprotein.cn" ["https://www.thg.com/security-issues/"] ""}
+{"namespacestudio.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"neuralegion.com" ["mailto:security@neuralegion.com"] ""}
+{"nicksenjitak.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ninjamas.co" ["https://hackerone.com/proctergamble"] ""}
+{"olfimania.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"omgsims2.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"originaltrilogy.com" ["admin@originaltrilogy.com"] ""}
+{"papertownsy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"partner.com" ["mailto:security@venntro.com"] "mon, 22 nov 2021 12:00:00 +0000"}
+{"paste.gg" ["mailto:pastegg-security@kyleclemens.com"] ""}
+{"petcareadvisors.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pixelatedgamer.com" [] ""}
+{"polarity.io" ["mailto:security@polarity.io"] ""}
+{"prepaid2cash.com" ["https://prepaid2cash.com/contact" "mailto:security@prepaid2cash.com"] ""}
+{"privacytools.io" ["admin@privacytools.io"] ""}
+{"profeminist.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"racypoker.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"radekrogus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ratemyteachers.com" ["mailto:contact@ratemyteachers.com"] ""}
+{"rebloggingfood.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"redditstatus.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"reynadiasposts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ritlabs.com" ["https://www.ritlabs.com/en/about/contacts.php"] ""}
+{"sagansense.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sarahcandersen.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"secretlycrookedpoetry.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"serxph.is" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shoot-the-world.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sleepy-and-cloaked.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"soulasylumstudios.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sonyasimscc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"spiritfuly.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sporza.be" ["mailto:infosec@vrt.be"] ""}
+{"star-astrology.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sstack.com" [] ""}
+{"stardewvalleyguide.org" [] ""}
+{"status.squarespace.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"suddenfire.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"summerfridaynyc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"supersimpleslider.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"swabiz.com" ["mailto:securityreport@wnco.com"] ""}
+{"sweetwildoranges.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thefuckisback.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thekillersnews.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"therapyportal.com" ["mailto:security@therapynotes.com" "support@therapynotes.com" "https://www.therapynotes.com/contact/"] ""}
+{"thewigcompany.com" [] ""}
+{"thisfits.me" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thewinningkey.com" [] ""}
+{"tierdropp.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tootentichitach.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"toledoblade.com" [] ""}
+{"troyhunt.com" ["mailto:security@troyhunt.com" "https://twitter.com/troyhunt"] ""}
+{"truffaux.com" [] ""}
+{"typehunting.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"twosigma.com" ["security@twosigma.com"] ""}
+{"twosigmaventures.com" ["security@twosigma.com"] ""}
+{"undeadhoney.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"uniicxrn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"usefulinterweb.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"viamichelin.it" [] ""}
+{"victoriajoan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"villageofhopeniagara.org" [] ""}
+{"vintagelasvegas.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vipicmou.net" [] ""}
+{"vizual-statistix.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vodkacupcakes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wantable.com" [] ""}
+{"whatimbuyingwithyourring.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whywouldufollowme.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"womenofwildwildwestafrica.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"yesikastarr.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"your-fave-is-catholic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"grosswink.com" [] ""}
+{"gorf.tube" ["https://github.com/chocobozzz/peertube/blob/develop/security.md" "mailto:support@gorf.com"] ""}
+{"proseful.com" ["mailto:support@proseful.com"] ""}
+{"golfworks.com" [] ""}
+{"mock-server.com" ["mailto:jamesdbloom+mockserver@gmail.com" "https://twitter.com/jamesdbloom"] ""}
+{"moipretzel.com" [] ""}
+{"active24.cz" ["mailto:csirt@active24.cz"] ""}
+{"meziantou.net" ["mailto:meziantousite@outlook.com"] ""}
+{"newmax.info" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"shopify.engineering" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"playtika.com" ["mailto:security@playtika.com"] ""}
+{"nettskjema.no" ["https://skjema.uio.no/security"] ""}
+{"aircrack-ng.org" ["security@aircrack-ng.org"] ""}
+{"ismilecareindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"libre.video" ["https://github.com/chocobozzz/peertube/blob/develop/security.md" "mailto:admin@libre.video"] ""}
+{"myautoglam.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"scholarshipportal.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"smithgracee65.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tatateleservices.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nationalaffairs.com" ["mailto:security@beckandstone.com"] ""}
+{"xrptoolkit.com" ["mailto:security@xrptoolkit.com"] ""}
+{"letsdraw.it" ["mailto:jan@poul.cz"] ""}
+{"fyletikesmaxes.gr" ["mailto:security@innogames.com"] ""}
+{"antworksmoneyposts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"concettolabs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"davaomedica.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paintmarkcolor.com" [] ""}
+{"realestateconsultantblog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rows.com" [] ""}
+{"stationx.net" ["https://www.stationx.net/contact/"] ""}
+{"tongal.com" [] ""}
+{"enjinx.io" ["https://enj.in/security"] ""}
+{"bearpostoffice.com" [] ""}
+{"monirh.com" [] ""}
+{"brunel.ac.uk" [] ""}
+{"google.bs" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"bastaonline.net" ["mailto:categoriesonline@gmail.com"] ""}
+{"cinede2019starwars.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"demonslayer-repelis.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mudanzas2.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ro-tattoo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"themandalorian2-disneyplus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"verthemandaloriandisneyplus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bizgoostor.space" [] ""}
+{"decathlon.co.uk" ["security@decathlon.com"] ""}
+{"getrefe.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gonuldostlar.net" [] ""}
+{"wien.gv.at" ["cert@wien.gv.at" "+43-1-4000-71112" "https://www.wien.gv.at/english/administration/ict/cert.html"] ""}
+{"smartbillboard.co" ["https://hackerone.com/automattic/reports/new"] ""}
+{"contractjobs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"escortserviceindialove.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gtempurl.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"indonesianonline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mbi-solutions.net" [] ""}
+{"rogueroyalty1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"seairexim1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whatupintown.com" ["contact@whatupintown.com"] ""}
+{"cumloud3r.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.cg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.dj" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"rapidwhm.com" [] ""}
+{"express-vpn.com" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"turnoffthelights.com" ["stefanvandamme@stefanvd.net" "https://www.turnoffthelights.com/support/contact-us/"] ""}
+{"99designs.co.uk" ["mailto:security@99designs.com"] ""}
+{"exabeam.com" ["mailto:vulnerability@exabeam.com"] ""}
+{"google.ms" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"cheapcheaplah.com" ["mailto:contact@cheapcheaplah.com" "https://www.cheapcheaplah.com/contact"] ""}
+{"over50mom.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ozspeedtest.com" ["alex@ozspeedtest.com"] ""}
+{"paneco.com.sg" ["https://www.paneco.com.sg/contact-us"] ""}
+{"pirouettefilm.com" [] ""}
+{"probikekit.com.au" ["https://www.thg.com/security-issues/"] ""}
+{"scivision.dev" ["https://www.twitter.com/sci_vision"] "thu, 31 dec 2021 00:00:00"}
+{"vistaprint.ie" ["bugbounty@cimpress.com"] ""}
+{"zeromarkets.com.au" [] ""}
+{"gatutor.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"intercom-attachments.com" ["https://bugcrowd.com/intercom" "mailto:security@intercom.com"] ""}
+{"robertocustodioart.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"firstaidbeauty.com" ["https://hackerone.com/proctergamble"] ""}
+{"hunterindustries.com" ["mailto:sectxt@hunterindustries.com"] ""}
+{"picsdigital.com" [] ""}
+{"udunie.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"elijah-norton.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"arabscholarshipsinfo.com" [] ""}
+{"mmdigest.com" [] ""}
+{"qualys.eu" ["https://www.qualys.com/company/contacts/" "mailto:security@qualys.com" "tel:+1-866-801-6161"] ""}
+{"amanchoudhary99.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"apk.fun" [] ""}
+{"begamrubeena786.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bunches.co.uk" ["https://www.bunches.co.uk/contact-us"] ""}
+{"coolwits.com" [] ""}
+{"cruisebay2020.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"giftluxestore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"golfclubmarketing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gsrstrategy.com" [] ""}
+{"hollowcareusa.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jioveda.com" [] ""}
+{"jyan.in" [] ""}
+{"lucycarterposts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"midukki.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"minnit.chat" ["info@minnit.chat"] ""}
+{"myvitamins.com" ["https://www.thg.com/security-issues/"] ""}
+{"nutriessentials123.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"opencagedata.com" ["mailto:security@opencagedata.com" "https://opencagedata.com/contact"] ""}
+{"orientique.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"perryshelly.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rasa.com" ["mailto:security@rasa.com"] ""}
+{"ruwertur.com" [] ""}
+{"safetylens.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"scottadamnews.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sonikashukla98.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"techsciresearch.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thephysiocareclinic.com" [] ""}
+{"tinadavid.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tryg.com" ["https://tryg.com/en/responsible-disclosure" "mailto:irt@tryg.com"] "tue, 30 nov 2021 12:00:00 +0200"}
+{"ultrajollycollectordeerworld.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vexxit.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"broker.ru" ["cybersec@bcs.ru"] ""}
+{"2020design4x4.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kreezalid.com" ["support@kreezalid.com"] ""}
+{"arrestus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"celestialvoyages.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dopereviewnacho.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ec-sports.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"liberat0r.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nsfw.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pampers.com.tw" ["https://hackerone.com/proctergamble"] ""}
+{"samayooo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"strawberry38.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sundaytw.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"time-fei.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"topic-news.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"toseethesummersky.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wolfpups241.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"yanzibamao.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hackthissite.org" ["staff@hackthissite.org"] ""}
+{"lightoj.com" [] ""}
+{"canon-me.com" ["product-security@canon-europe.com"] ""}
+{"sonarcloud.io" ["mailto:security@sonarsource.com"] ""}
+{"google.co.zw" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"payrollmauritius.com" ["info@payrollmauritius.com" "https://www.linkedin.com/company/payrollmauritius/"] ""}
+{"ubootman.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"downdetector.hk" ["security@downdetector.com" "security@ookla.com"] ""}
+{"free-guy-1080p.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fishpond.com.hk" ["https://openbugbounty.org/bugbounty/kelvinlomberg/"] ""}
+{"forbiddenplanet.com" ["security@forbiddenplanet.com"] ""}
+{"keda-powder.com" [] ""}
+{"myprotein.com.hk" ["https://www.thg.com/security-issues/"] ""}
+{"nxs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"webletter.space" [] ""}
+{"x-minus.top" [] ""}
+{"shopify.co.id" ["https://www.shopify.com/security-response" "mailto:security@shopify.com"] ""}
+{"flickr.net" ["https://hackerone.com/flickr"] ""}
+{"ptewarin.net" [] ""}
+{"google.com.ai" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"whatsomar.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"totogetica.com" [] ""}
+{"bludwan.com" [] ""}
+{"netpatas.com" [] ""}
+{"streamzz.to" [] ""}
+{"igorware.com" ["https://www.igorware.com/contact"] ""}
+{"adp.ca" ["mailto:vulnerabilityreporting@adp.com"] ""}
+{"boardroomshop.com" ["mailto:security@nitrosell.com"] ""}
+{"clarkassociatesinc.biz" ["security-reports@clarkinc.biz"] ""}
+{"ghibli-collector.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kingdomcomerpg.com" ["mailto:security@fg.cz"] ""}
+{"oralb.ca" ["https://hackerone.com/proctergamble"] ""}
+{"pghealthindia.com" ["https://hackerone.com/proctergamble"] ""}
+{"popinabox.ca" ["https://www.thg.com/security-issues/"] ""}
+{"google.me" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"mall.cz" ["mailto:abuse@mallgroup.com"] ""}
+{"1ce.org" [] ""}
+{"acu.edu" [] ""}
+{"aigreencard.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amazonamazonmytv.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amopportunities.org" ["mailto:security@amopportunities.org"] ""}
+{"ankitpati.in" ["mailto:contact@ankitpati.in" "https://ankitpati.in"] ""}
+{"aseniorsfirst.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"balliamart.com" [] ""}
+{"biographytalk0.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"brandonhefner.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chandrapraveen.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chittaranjaninfotech.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"claritusconsulting.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"contentwriteragency.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"co-operative.coop" ["mailto:information.security@coop.co.uk"] ""}
+{"couponfirst2.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"droidt99.com" [] ""}
+{"easyworknet288.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ecraftindiaonlinestore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"equinor.com" ["https://www.equinor.com/en/about-us/site-info/information-security.html"] ""}
+{"familiarfastfunds.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"frontiaz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.co.hu" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.co.ck" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"greteastern.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.im" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"happimobiles.com" ["mailto:support@totaljs.com" "https://www.totaljs.com/contact/"] ""}
+{"healthfultips.org" [] ""}
+{"helloescaperoom.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hellomodapkdownload.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"harshitawoodenstreet.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hokosokomarketplace.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hybridcloudsolutions.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"imakeovers.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"indglobaldigitalprivate.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"khadinatural.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"laundry-asset-management-system.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lawpreptutorial.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"laundry-management-system.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mcafeemcafeeactivate.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mdilip948.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"milpl123456.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mind-inventory.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"molitics.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mqfitness.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mumbaionlinestationery.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mydeepthoughts.in" [] ""}
+{"nille.no" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"oddwayexporterindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"onclkds.com" [] ""}
+{"osmsherbals.in" [] ""}
+{"pearsonindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"quickfollowerrs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"report-uri.com" ["mailto:security@report-uri.com" "https://twitter.com/reporturi"] ""}
+{"rogueraw1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rylockmelbourne.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sanvarifashion.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sarthakseconnect.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"secureye.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"serverhostingplan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sgestatesthings.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"seosenor01.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"stebromoldgroup.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"summitlawllp0120.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"submitinme.com" [] ""}
+{"sweetykhan01.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tezos.foundation" ["mailto:security@tezos.com"] ""}
+{"tidyboy892.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"try2hack.me" ["mailto:info@try2hack.me"] ""}
+{"urlin.it" [] ""}
+{"vikaspumps.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"websupport.sk" ["security@websupport.sk"] ""}
+{"whythewait.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lesbotteux.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ds-exim.cz" ["mailto:podpora@jzshop.cz" "tel:+420-739-733-992"] ""}
+{"fsin-pismo.ru" [] ""}
+{"mayak-house.ru" [] ""}
+{"discordstatus.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"billyhopkinson.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.com.bz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.bi" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"boost-music.click" [] ""}
+{"simplesellable.com" ["https://simplesellable.com/contact"] ""}
+{"syncthing.net" ["security@syncthing.net"] ""}
+{"ateliershiang.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"awraq-adbyah.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"buy-express-vpn.asia" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"fahad4esi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"johngdryden.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lookfantastic.ae" ["https://www.thg.com/security-issues/"] ""}
+{"uxmyths.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"zouphail.com" [] ""}
+{"kupi.com" ["mailto:iib@kupibilet.ru"] ""}
+{"biron.com" ["security-txt@deuxhuithuit.com"] ""}
+{"google.mv" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"internic.net" ["https://hackerone.com/icann" "mailto:vulnerability@icann.org"] ""}
+{"zavvi.com.au" ["https://www.thg.com/security-issues/"] ""}
+{"google.co.bw" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"fashionfaves.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.co.ao" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"canon.com.cy" ["product-security@canon-europe.com"] ""}
+{"michelin.com.tr" ["cert@michelin.com"] ""}
+{"fourchette-et-bikini.fr" ["website-security@odiso.com"] ""}
+{"fleurdulys.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"echmodel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nbb.be" ["responsible disclosure security issue" "mailto:servicedesk@nbb.be"] ""}
+{"yarlnk.com" [] ""}
+{"topdeck.ru" ["https://topdeck.ru/contact/"] ""}
+{"amazing-jquery-plugins.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bloodelves88.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"chemthan.com" [] ""}
+{"caterspot.sg" [] ""}
+{"fishpond.com.sg" ["https://openbugbounty.org/bugbounty/kelvinlomberg/"] ""}
+{"keppelland.com" [] ""}
+{"kellylailailai.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"uneasybluedreams.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"uses-of-sadness.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dentalcare.com" ["https://hackerone.com/proctergamble"] ""}
+{"host.al" ["mailto:security@enartia.com"] ""}
+{"aasv.org" ["mailto:webmaster@aasv.org"] ""}
+{"bring.no" ["mailto:it.sikkerhet@posten.no"] ""}
+{"thongtinsao-com.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"automobilist.com" ["mailto:admin@simplia.cz" "https://www.simplia.cz"] ""}
+{"humblevoice.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thuoctaynhanh.com" [] ""}
+{"coollady.ru" [] ""}
+{"goloslogos.ru" ["beotiger@gmail.com"] ""}
+{"us1-usndr.com" [] ""}
+{"20th-century-man.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"digitexfutures.com" ["defend@digitexfutures.com"] ""}
+{"espaskincare.com" ["https://www.thg.com/security-issues/"] ""}
+{"illamasqua.com" ["https://www.thg.com/security-issues/"] ""}
+{"twixnmix.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.bj" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"burnssheehan.co.uk" ["mailto:security@ccdstudios.com"] ""}
+{"google.ne" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"zelrasty.net" [] ""}
+{"ali-ab-volgopoint.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"siemens-energy.com" ["mailto:productcert@siemens.com" "mailto:cert@siemens.com"] ""}
+{"seedlang.com" [] ""}
+{"supersaver.ru" ["mailto:security@etraveligroup.com"] ""}
+{"wehadfacesthen.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.ga" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"oncollabim.com" ["https://www.collabim.cz/kontakt.html" "https://www.collabim.com/contact.html"] ""}
+{"studysoup.com" [] ""}
+{"afklcargo.com" [] ""}
+{"bienavousstudio.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bindingofisaacwiki.com" [] ""}
+{"bookatable.co.uk" [] ""}
+{"buildxact.com.au" ["security@buildxact.com"] ""}
+{"c0nect.com" [] ""}
+{"centerpointshops.com" [] ""}
+{"disneypixar.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ecobee.com" [] ""}
+{"egypt-museum.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"foodticket.ca" ["security@xpos.nl"] ""}
+{"freezetheme.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jspauld.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kawaiistacie.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"liveteas.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"masscracc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mrandmrs2015.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"neoneo6969.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pamperssamples.ca" ["https://hackerone.com/proctergamble"] ""}
+{"pearwaldorf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"promotique.ca" ["bugbounty@cimpress.com"] ""}
+{"rouinfernapean.com" [] ""}
+{"stabbykiri.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"suaveuk.net" [] ""}
+{"thegorgonist.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thehumansoftoronto.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"totorotori.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vecna.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"view-page-source.com" ["mailto:security@view-page-source.com"] ""}
+{"marines-shop.com" ["mailto:security@shoptet.cz"] ""}
+{"soundsof71.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"skmaster.net" [] ""}
+{"24x7.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"247labscompany.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"4aem.com" ["https://github.com/chocobozzz/peertube/blob/develop/security.md" "mailto:libertysoft3@protonmail.com"] ""}
+{"aaban.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aboutcambodiatravel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"adamj.eu" ["me@adamj.eu" "https://twitter.com/adamchainz"] ""}
+{"affbv12.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aitopics.org" [] ""}
+{"akhilaryalove.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"alleyjohneducationexperts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"alla-matta.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amber-park-condo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amitparasnis.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"antopie.org" ["miraty+securitytxt@antopie.org" "matrix:user/miraty:matrix.antopie.org"] ""}
+{"apkdownload.com" [] ""}
+{"appsquadzsoftware.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"appnwebtech.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"archedu.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aromamobileaccessories.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"articledefinition.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aspireworld2.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aspireworldimmigration208.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"awokenwoman12.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"awonderfullie.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"babynames.net" ["mailto:security@dotdash.com"] ""}
+{"baroncorrz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"battlefieldtracker.com" ["mailto:security@tracker.gg"] ""}
+{"bdmimarketing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bestdealerbdc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bharatsraj.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bhavmeetkaur.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bighornwellness.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bitchysharkgalaxy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bnonewspost.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bodybuildingprofessionals.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bottrellrealestate.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bottrellcoachingaus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"boxconcept.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"btsudaipur.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"bulksmsmarkeitng.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"buywow.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"canon.ie" ["product-security@canon-europe.com"] ""}
+{"cedardesign01.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"celebritynews283.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"centrostyle1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cityescortsmumbai.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"citywire.co.uk" ["security@citywire.co.uk"] ""}
+{"ciolookindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"classesofprofessionalstudies.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"clavonresidences.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"clean-shaved-pussy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cloudsecurityalliance.org" ["security@cloudsecurityalliance.org"] ""}
+{"collaborative-learning.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"coop.co.uk" ["mailto:information.security@coop.co.uk"] ""}
+{"corporategiftsindiaonline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"csarven.ca" ["admin+security@inrupt.com"] ""}
+{"dataprodigy.us" [] ""}
+{"day2daytv.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"demon-slayer-full-movie-youtube.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"desperatetravel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dhmidelhi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"digitalsoftwarestore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"divatos.in" [] ""}
+{"dmcmarketing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"doctorpallavi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"doctoralia.es" ["mailto:bugreporting@docplanner.com"] ""}
+{"domo-au.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dpmiindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dpsschoolsojat.in" [] ""}
+{"drlakshmaiahiasacademy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"drmukkeshjetleyclinic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"edigitalsignature.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"edtionalblogs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"efreefind.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"emkei.cz" ["mailto:emkei@soom.cz"] ""}
+{"eproconsultants.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"equalinfotech.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"equitywebsolution.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"escorts-in-lebanon.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"escapekit.ca" ["https://hackerone.com/automattic/reports/new"] ""}
+{"explainwiz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fadingfestcowboy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"faridabadschool.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fictiongeeksbookclub.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"festival-cnovi-2015.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"febbc.com" ["https://hackerone.com/github"] ""}
+{"finsliqtechacademyy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"freethought.uk" ["security@freethought.uk"] ""}
+{"fundstiger-finance.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gaellecosmetics1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gerben.name" [] ""}
+{"glassfittinghyderabad.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gmailloginm.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.is" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.hk" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.fm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"grepixit.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"growgorgeous.com" ["https://www.thg.com/security-issues/"] ""}
+{"hacksource.xyz" [] ""}
+{"halp.com" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"harryrje20.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hashtagsafework1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"haseeba.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"heducate.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hearingsolutionsindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hellojohnweek.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"himanshufan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hobovideo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hvacrepairservice.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"i4mycurls.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"icmgroup.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ign24news.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"info-suvarnabhoomiinfra.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"interlegal.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"itsdivyasharma.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"itsoftwaretrainingnoida.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"izzpay.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"juneee111.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"justquestionanswers.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kathyherringportraits.com" [] ""}
+{"khalsahealing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kerry121.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kiresidencesss.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"koreanyousay.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kratomus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"krahejacorphomes.com" [] ""}
+{"ktos-management.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"last-color.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ldap.com" [] ""}
+{"leafrealestate.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lethatoshoes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"level365.com" ["mailto:security@level365.com"] ""}
+{"linkedin.in" ["mailto:security@linkedin.com" "https://www.linkedin.com/help/linkedin/answer/62924"] ""}
+{"livewebtutorsaustraila.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lovebacksolutionexpert.com" [] ""}
+{"lookfantastic.co.in" ["https://www.thg.com/security-issues/"] ""}
+{"lyyti.fi" ["mailto:security@lyyti.com"] ""}
+{"mahanya.com" [] ""}
+{"maneraa.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"marianasedu.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"matheiurobine.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"maxyartwork.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"meetageorge.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"merchant0fdeath.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"milenabalcarcel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mindfitlab.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mindinventorytechnologies.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mlmsoftware-india-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mostusefultricks.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"motionedits.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"moveradbell.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"moviesinsuits.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mtgelectronics.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"my-job-seeker.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mysmsmantraindia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"narolasolutions.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nerdcave.com" [] ""}
+{"nhpm.in" [] ""}
+{"ninja-boy-universe.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"officefurnituredubaiuae.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"omninoss.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"onlinecheckwriters.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"opulasoftware.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"our-happy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"panditmadhavpandey.com" [] ""}
+{"pantene.com" ["https://hackerone.com/proctergamble"] ""}
+{"palantircloud.com" ["mailto:cirt@palantir.com"] ""}
+{"panna81.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paradisetechsoftsolutions.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paramhomes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"parccentralresidencess.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paperdues.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paytm.me" [] ""}
+{"peppybiz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"php.watch" ["https://ayesh.me/contact"] ""}
+{"portercable.com" [] ""}
+{"pragathistore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"prakashindustries.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"prashant014.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"prashantarya4231.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pret.co.uk" ["mailto:security@pret.com"] ""}
+{"preview.services" [] ""}
+{"qarotmen.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"qmanagerstuff.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"question.com" ["security@question.com"] ""}
+{"rabnkeronline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"reelae.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"renaissancenails.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"reroofamerica.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"resmirnairofficial.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rkidder67.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rogueraw.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rsenterprise.in" [] ""}
+{"rurashfin.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sagecrm.com" ["soc@sage.com"] ""}
+{"sanuredy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sapne.org.in" [] ""}
+{"sarangonline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sathiotiktok.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"scottsdirectories.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sesemi7.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shantnusingh.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shopcsgoaccounts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"simplyfoodgifs.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"smokeroutlet.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"startuphiring.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"stevegriggswatercolor.com" [] ""}
+{"swiftnliftmagazine.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"teardropcaravans.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"techdotmatrix.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"technostruct.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"testmyinternetspeed.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"the35gilstead.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"the99beautyinstitute.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thecuteperfect.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thecollectivity.org" [] ""}
+{"thebridesbouquet.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thedigitalot.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"theglobalinvestor.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thenotifyvisitors.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"torontopsychological.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"trimdraft.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"trybealive.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"twinkl.co.id" ["@arbgae42g"] ""}
+{"ultraepsonprinter.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"umbodybuilders.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ugmoey.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"unikfinancial.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vetnews.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vickidavis.me" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vijayimpactmarketing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vipuljain.in" [] ""}
+{"vivindesigninterior.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wallpaper4iphone.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wdptechnology.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wdptechnologies.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"webscreenscraping.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"whoopzz288.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"woodenstreet1234.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"wpengine.co.uk" ["https://wpengine.com/security"] ""}
+{"yahki.com" [] ""}
+{"yahoo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ybhardwaj2020.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"yes.com" ["mailto:incident@yes.com"] ""}
+{"zahratalmadina.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"zohowebstatic.com" ["https://bugbounty.zoho.com/bb/#/submitbug" "mailto:security@zohocorp.com"] ""}
+{"greemeek.net" [] ""}
+{"motul.com" [] ""}
+{"google.dm" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"couponatus.com" [] ""}
+{"bidmyqps.xyz" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"google.com.pg" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"moebel.de" [] ""}
+{"bootboy2717.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cisofy.com" ["security@cisofy.com"] ""}
+{"epithimies.gr" ["https://hackerone.com/proctergamble"] ""}
+{"ohsharethekmusic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"under-the-neon-moon.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lavender-thief.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jenniemillerww.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"siennastewart2020.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"aumpoabi.com" [] ""}
+{"gear4music.ie" ["security@g4m.co.uk"] ""}
+{"unminus.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mivzakim.net" ["security@mivzakim.net"] ""}
+{"jcb.com" ["security-report@jcb.com"] ""}
+{"bettyingram.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"juristique.org" ["support [at] juristique {dot} org"] ""}
+{"dancehall-song-lyrics.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"generationexorcist.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"individualprojectforundself.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"iwriteasiwrite.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mylittlepetstore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"perfect-privacy.com" ["mailto:admin@perfect-privacy.com"] ""}
+{"pinoytrendinglyrics.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"spektrummagazine.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thongtinsaocom.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"transfusionguidelines.org" ["nss.showteam@nhs.net"] ""}
+{"zonarsystems.com" ["security@zonarsystems.com"] ""}
+{"deppa.ru" ["pavel.osetrov@me.com"] ""}
+{"retrogirly.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hd88ca.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"yu-gi-oh-headcanon.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"get-express-vpn.net" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"unbgames21.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fastwebtraffic.net" [] ""}
+{"rouonixon.com" [] ""}
+{"apptimize.com" ["mailto:security@airship.com"] ""}
+{"lafabriquedelacite.com" ["mailto:cert@vinci.com"] ""}
+{"ident.me" [] ""}
+{"spreadshirt.ca" ["mailto:security@spreadshirt.net"] ""}
+{"wowltd.xyz" [] ""}
+{"nhipsonghomnay.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"celebritiesbuzzgh.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"247hitz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sharperiron.org" ["admin@sharperiron.org"] ""}
+{"downdetector.web.tr" ["security@downdetector.com" "security@ookla.com"] ""}
+{"sarizeybekhaber.com.tr" [] ""}
+{"textcipher.com" [] ""}
+{"waisheph.com" [] ""}
+{"shwaty9.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ingolos.ru" ["beotiger@gmail.com"] ""}
+{"isabelcostasixties.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kaiserkraft.ru" ["mailto:it-sec@kaiserkraft-europa.de" "tel:+49-711-3465-7400"] "thu, 11 mar 2021 17:47:43 +0100"}
+{"xn----7sbzaqgkqhke1mh.xn--p1ai" [] ""}
+{"canon-emirates.ae" ["product-security@canon-europe.com"] ""}
+{"emilyanne113.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"liferay.dev" ["security@liferay.com"] "fri, 31 dec 2021 23:59:59 +0000"}
+{"nameshield.com" ["security@nameshield.net"] ""}
+{"petitcartonvert.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pampers.ae" ["https://hackerone.com/proctergamble"] ""}
+{"probikekit.co.uk" ["https://www.thg.com/security-issues/"] ""}
+{"servicemycardubai.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sign.ac.uk" ["nss.showteam@nhs.net"] ""}
+{"altebby.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kenomal.com" [] ""}
+{"mainpacket.com" [] ""}
+{"streamz.ws" [] ""}
+{"d21.pw" [] ""}
+{"drfarfar.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"carigami.fr" ["developers@billiger-mietwagen.de" "admin@billiger-mietwagen.de"] ""}
+{"haberwebte.live" [] ""}
+{"wordego.com" [] ""}
+{"cherry-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nextpost.tech" ["contact@nextpost.tech" "https://www.facebook.com/groups/nextpost.developers/"] ""}
+{"rockinmama.net" [] ""}
+{"quadrasyndicate.com" [] ""}
+{"ellcurvth.com" [] ""}
+{"najwafy.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"rattanmantrans.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shedul.com" ["security@shedul.com"] ""}
+{"techxapk.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tidelift.com" ["security@tidelift.com"] ""}
+{"tekkaus.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vindecoder.eu" ["mailto:jakub@vindecoder.eu" "https://vindecoder.eu/contact-us"] ""}
+{"bootsboy52.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"deere.de" ["https://www.deere.com/en/forms/corporate/it-security-consulting/"] ""}
+{"dpd.com.pl" ["https://www.trusted-introducer.org/directory/teams/cert-la-poste.html"] ""}
+{"eqgr.gr" ["https://www.eqgr.gr/about/"] ""}
+{"google.com.fj" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"hegrade.gr" ["https://hackerone.com/automattic/reports/new"] ""}
+{"klipon.com" ["mailto:info@klipon.com" "tel:+31 (0) 20 623 58 58" "https://www.klipon.com/security-contact/"] ""}
+{"lookfantastic.gr" ["https://www.thg.com/security-issues/"] ""}
+{"m-ary.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"marionsasterism.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"muetze01.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sete.gr" [] ""}
+{"workeres.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nintendo.ru" [] ""}
+{"bitbucket.io" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"centreon.com" ["security@centreon.com"] ""}
+{"flotillaiot.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fueledappsdevelopment-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ilovecharts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lucky2go.com" ["mailto:security@esky.com"] ""}
+{"marinchwa.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"monster-huntologist.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"muziseo.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"newamericanjacket.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"themoviefashion.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"the-west.org" ["mailto:security@innogames.com"] ""}
+{"catcherpdf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"edem-96.ru" [] ""}
+{"emlstats.com" [] ""}
+{"gillette.ru" ["https://hackerone.com/proctergamble"] ""}
+{"lookfantastic.ru" ["https://www.thg.com/security-issues/"] ""}
+{"rvulkan.com" [] ""}
+{"tetw.org" ["https://hackerone.com/automattic/reports/new"] ""}
+{"trust.zone" ["contact@trust.zone"] ""}
+{"wmprofile.com" ["mailto:support@qwertynetworks.com"] ""}
+{"google.com.ag" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"scottbrady91.com" ["scott@scottbrady91.com"] "sun, 31 jan 2021 11:41:40 +0000"}
+{"larochelle-tourisme.com" ["mailto:infrastructure@moustic-multimedia.fr"] ""}
+{"30joursmax-completvf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"miriamkarpsoulart.com" [] ""}
+{"soalouve.com" [] ""}
+{"mbahwp.com" [] ""}
+{"andrewlock.net" ["https://andrewlock.net/about/" "https://twitter.com/andrewlocknet"] ""}
+{"everydayme.ru" ["https://hackerone.com/proctergamble"] ""}
+{"deanbarton0.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"eriamsingwatchonlineth.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.ad" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"lookfantastic.com.sg" ["https://www.thg.com/security-issues/"] ""}
+{"sk-ii.co.th" ["https://hackerone.com/proctergamble"] ""}
+{"urceleb.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gramfree.space" [] ""}
+{"we-cachivang.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"joobuste.com" [] ""}
+{"monzo.com" ["mailto:security@monzo.com"] ""}
+{"igobets.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kras.rs" [] ""}
+{"nintendo.de" [] ""}
+{"spacecityweather.com" ["https://www.bigdinosaur.org/email.html"] ""}
+{"siliconvalleyjobtitlegenerator.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"techbook.de" ["https://www.axelspringer.com/en/cyber-security" "mailto:security-incident@axelspringer.de"] ""}
+{"iquiz.cc" ["https://hackerone.com/automattic/reports/new"] ""}
+{"comptoir-du-libre.org" ["https://gitlab.adullact.net/comptoir/comptoir-srv" "https://comptoir-du-libre.org/pages/contact"] ""}
+{"deco.fr" ["website-security@odiso.com"] ""}
+{"ekwateur.fr" ["mailto:security@ekwateur.fr"] ""}
+{"enviedeplus.com" ["https://hackerone.com/proctergamble"] ""}
+{"funpinpin.com" [] ""}
+{"google.us" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"happensinadops.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"holidaysontheriver.com" [] ""}
+{"tricks-and-tips.com" [] ""}
+{"ulvis.net" ["security@ulvis.net"] ""}
+{"caglaikr.net" [] ""}
+{"haberarsiviyiz.com" [] ""}
+{"99m.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"antikoerperchen.de" [] ""}
+{"maluma-baby-daily.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"haccah.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ephotozine.com" ["support@ephotozine.com" "https://www.ephotozine.com/create-report"] ""}
+{"1997nou.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"99designs.com.au" ["mailto:security@99designs.com"] ""}
+{"bestiptvm3u.com" ["contact@flylinks.net" "https://twitter.com/flylinksnet"] ""}
+{"bstsolmarketing.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"debiessy.com" [] ""}
+{"deskiyofficefurniture.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"edmodo.net" ["mailto:support@edmodo.com" "https://support.edmodo.com/hc/en-us/articles/360035475733"] ""}
+{"five-fives.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"flyingcarpettours.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"goldencouponz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gypsumboard.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"iujhuytyutyu.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"maushasi-ms.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mxims.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nourah09.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"potlabicons.com" [] ""}
+{"project-real.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"remandosc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"saharfoad.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"toglooman.com" [] ""}
+{"workiva.com" ["infosec@workiva.com"] ""}
+{"bangtanbookclub.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dulcesiabits.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"feedio.co" ["mailto:steven@feedio.co?subject=[feedio] security issue"] ""}
+{"jaymantri.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"flyingblue.com" [] ""}
+{"mappy.com" ["security@mappy.com"] ""}
+{"cyber-pursuit.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"michelin.ch" ["cert@michelin.com"] ""}
+{"shoungak.net" [] ""}
+{"g5e.com" ["mailto:security@g5e.com"] ""}
+{"explore-group.com" ["mailto:security@ccdstudios.com"] ""}
+{"sociality.io" ["security@sociality.io"] ""}
+{"flat.io" ["https://hackerone.com/flat_io" "mailto:security@flat.io"] ""}
+{"92crafts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ahead-it.eu" ["mailto:site@ahead-it.eu"] ""}
+{"annbooth68.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"autorevue.cz" ["https://www.cncenter.cz/clanek/1751/czech-news-center" "https://www.facebook.com/czechnewscenter/"] ""}
+{"awesomewinealexblog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"classifiedable.xyz" [] ""}
+{"collabim.com" ["https://www.collabim.cz/kontakt.html" "https://www.collabim.com/contact.html"] ""}
+{"collabim.cz" ["https://www.collabim.cz/kontakt.html" "https://www.collabim.com/contact.html"] ""}
+{"dama.cz" ["https://www.cncenter.cz/clanek/1751/czech-news-center" "https://www.facebook.com/czechnewscenter/"] ""}
+{"downdetector.pk" ["security@downdetector.com" "security@ookla.com"] ""}
+{"dream.io" ["abuse@dreamhost.com"] ""}
+{"equiti-me.com" [] ""}
+{"fdr-fala.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"fitjacket.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"goodbooksuk.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hairtansplantrepair.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hydrawise.com" ["mailto:sectxt@hunterindustries.com"] ""}
+{"ishinetrades.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"itsbiography.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jindemeriyemovie.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"justamericanjacket.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mubeenrao.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nine.is" [] ""}
+{"nussygame.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pakscimission.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"photojobs1122.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"realgoldrates1.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"renovation12542.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"smartstorexl.com" [] ""}
+{"skyoworld-blog.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"skyoworld.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"srinivas43.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"spinandshake.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"stellarjaystudios.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"themepedianetwork.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tickarise.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"totalsportek.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"urdu-poetry-lover.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vpnexpress.com" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"websiteflipp.com" [] ""}
+{"yeahhub.com" ["contact@yeahhub.com"] ""}
+{"kadinlarbilir.com" ["https://hackerone.com/proctergamble"] ""}
+{"muadiltoner.com.tr" [] ""}
+{"softmasaj.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tepav.org.tr" [] ""}
+{"whoissalvatore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"adarasanchez.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ajtek.ca" ["mailto:security@ajtek.ca" "https://twitter.com/adamj_1"] ""}
+{"artforadults.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"avoka.do" [] ""}
+{"blatwalm.com" [] ""}
+{"bookmate.store" [] ""}
+{"chistaya-linia.ru" ["https://www.chistaya-linia.ru/contacts"] ""}
+{"cleverdreamlandpenguin.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"contemporaryartdaily.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dansoloart.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"deadbeat-sims.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"elysiasims4.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"emlportal.com" [] ""}
+{"emlstart.com" [] ""}
+{"epam-group.ru" ["mailto:contact.security@epam.com"] ""}
+{"fbspin.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"file-ms.ru" [] ""}
+{"ffsim.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hardyeboys.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"it-actual.ru" ["https://it-actual.ru/cform/"] ""}
+{"knockoutqueenoftheunderworld.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lgbtqiarchive.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"likintegralov.ru" [] ""}
+{"maktuda.ru" [] ""}
+{"moonglitchccfinds.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"msetup.net" ["mailto:admin@msetup.pro"] ""}
+{"npmjs.org" ["security@npmjs.com"] ""}
+{"numama.ru" ["https://www.atlassian.com/trust/security/report-a-vulnerability" "mailto:security@atlassian.com"] ""}
+{"obrazovanie.guru" [] ""}
+{"pobedi-prokrastinatsiyu.ru" ["dev@growjob.com"] ""}
+{"pride-color-schemes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"printsburg.ru" ["info@printsburg.ru"] ""}
+{"ques.ru" [] ""}
+{"radiooooo.com" ["mailto:security@radiooooo.com"] ""}
+{"ridestep.ru" ["info@ridestep.ru"] ""}
+{"romanbymarta.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shopinfo.top" [] ""}
+{"skinnylove82.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"skale.network" ["mailto:security@skalelabs.com"] ""}
+{"slava-news.ru" [] ""}
+{"themyten.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"travers.com" [] ""}
+{"us4-usndr.com" [] ""}
+{"us7-usndr.com" [] ""}
+{"vzpqtxe.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"warhead.su" [] ""}
+{"wgsn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"xenawarriorpodcast.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"xenainnuendoisland.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"xldsims.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"itsluckytiger01.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"system76.com" ["security@system76.com"] ""}
+{"ae3888.com" [] ""}
+{"captaitranbinh.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dpdlocal.co.uk" ["it.security@dpdgroup.co.uk"] ""}
+{"nhavuonbaokhanh.com" [] ""}
+{"paybypi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"30joursmax-voir.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hdfrancaisfilm2020.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"osirix-viewer.com" [] ""}
+{"play-30-jours-max-fr.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"konusulucakseyler.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"etarim.gov.tr" [] ""}
+{"google.bt" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"iqglassuk.com" ["mailto:security@ccdstudios.com"] ""}
+{"soz.lk" ["security@eksisozluk.com"] ""}
+{"oodsauns.net" [] ""}
+{"johnnycagebabes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"amgardevoirtor.com" [] ""}
+{"actressgallery.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hoaxoffame.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sachin679.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"togenron.com" [] ""}
+{"host-master.shop" [] ""}
+{"aliammara.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"confirm.ch" ["mailto:security@confirm.ch"] ""}
+{"doufoacu.net" [] ""}
+{"ecsbrasil.com" [] ""}
+{"hoshl.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"jatengland.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"meetcuteprompts.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mxgime.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"netscout.com" ["mbproductsecurity@netscout.com"] ""}
+{"pencintabahagia.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"restlessfandoming.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"shabrina.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sugarjaee.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tfl.gov.uk" ["mailto:cybersec@tfl.gov.uk"] ""}
+{"coothupu.net" [] ""}
+{"globelink.eu" [] ""}
+{"nas.org" ["mailto:security@beckandstone.com"] ""}
+{"whatismycountry.com" ["mailto:security@whatismycountry.com"] ""}
+{"globelink.co.uk" [] ""}
+{"bmigroup.com" ["c2vjdxjpdhlaym1pz3jvdxauy29t"] ""}
+{"minnakkadinn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"noaptauw.com" [] ""}
+{"voidsec.com" ["mailto:voidsec@voidsec.com"] ""}
+{"nyanbinary-snatcher.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"taramysweetlove.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ishatechadvertisingagency.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"nulledok.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sorenacode.com" [] ""}
+{"99designs.no" ["mailto:security@99designs.com"] ""}
+{"bprdesigns.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cameradanang.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cti.com.vn" [] ""}
+{"ebhvn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gamechienthuatonline.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"herodoan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hoanghamobile.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lanlongloc.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"oducamtay.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ppsvietnam.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"tshirtslayer.com" ["mailto:security@tshirtslayer.com"] "thu, 31 dec 2030 18:37:07 -0000"}
+{"cagedcaydn.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cigarettebeer.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pilsizsaat.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sorryforbeingaslutok.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"xperience.io" ["mailto:security@kentico.com"] ""}
+{"oralb.co.uk" ["https://hackerone.com/proctergamble"] ""}
+{"aznaetelivy.ru" ["mailto:support@aznaetelivy.ru"] ""}
+{"ctelecom.ir" [] ""}
+{"edrinataps.ir" [] ""}
+{"danganronpa69.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"customemoji.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"happywishfull.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"orchidea--nera.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mylovemysoul.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ulist-man.com" [] ""}
+{"fitbook.de" ["https://www.axelspringer.com/en/cyber-security" "mailto:security-incident@axelspringer.de"] ""}
+{"google.cv" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"gynatube.club" [] ""}
+{"haberwebte.com" [] ""}
+{"iwantoneofthose.com" ["https://www.thg.com/security-issues/"] ""}
+{"leros.cz" ["security@blueghost.cz" "https://www.blueghost.cz/kontakty/?prefill=objevil%20jsem%20bezpe%c4%8dnostn%c3%ad%20chybu%20na%20webu%20" "info@blueghost.cz"] ""}
+{"mkarh.live" [] ""}
+{"golang.cafe" ["mailto:team@golang.cafe"] ""}
+{"workman.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"surge-of-urges.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hipsarda.net" [] ""}
+{"bxrme.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"digi.ninja" ["mailto:robin@digi.ninja"] ""}
+{"emojiratingcollection.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"generalcollection00.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gymclassmagazine.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"haunigre.net" [] ""}
+{"hinducosmos.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"juliencoppola.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"keepcalm.finance" ["https://hackerone.com/automattic/reports/new"] ""}
+{"magic-window-industries.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mychairinfo.com" [] ""}
+{"seosiri.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"thebusiness24.com" [] ""}
+{"chanel-ka.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"epam.by" ["mailto:contact.security@epam.com"] ""}
+{"givenxchyme.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"oldman2014.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"paverg.ru" [] ""}
+{"saneves-fan.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vp.by" ["https://aditec.ru/contact.htm"] ""}
+{"clario.co" ["bugbounty@weareclario.com"] ""}
+{"biznisweb.sk" ["security@floxcloud.net"] ""}
+{"gatsbyjs.cn" ["mailto:mathews.kyle@gmail.com"] ""}
+{"rawoarsy.com" [] ""}
+{"shofteph.com" [] ""}
+{"webmproject.org" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"amerikavizeuzmani.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"antalyatravestisude.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"antikadam.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"anushkaverma2.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"boommood.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"buzluviski.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"cannabisvealkol.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"caylakyazilimci.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"coltongaga22.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"denizcilikvegemi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"digitaldoviz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"dizimizi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"endustriyelkesim.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"erdkse.xyz" [] ""}
+{"erhanyavuz.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ertu77.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"esky.com.tr" ["mailto:security@esky.com"] ""}
+{"extrahop.com" ["mailto:security@extrahop.com"] ""}
+{"fairy-wren.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"gonuldostlar.org" [] ""}
+{"gurkerl.at" ["mailto:petr.urban@rohlik.cz"] ""}
+{"haber-adana.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"happensmoke22.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hemsireformasi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"hostragons.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"icguveysindeniclice.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ikramodacom.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ilkkursun.site" [] ""}
+{"jamieweb.net" ["https://hackerone.com/jamieweb" "https://www.jamieweb.net/contact/"] ""}
+{"jordanbmason.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"klippa.com" ["mailto:security@klippa.com" "tel:+31502111631" "https://www.klippa.com/en/contact-us/"] ""}
+{"lambskinleatherjacket.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lichess1.org" ["mailto:contact@lichess.org"] ""}
+{"ledgrowshop.eu" ["mailto:security@shoptet.cz"] ""}
+{"logodevir.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"linkifki.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"mandalinacanavari.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"orucaruobasiirleri.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"otelurunleri.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"periobyorkid.com" ["https://hackerone.com/proctergamble"] ""}
+{"peterhahn.de" ["mailto:francisc.rusznyak@peterhahn.de"] ""}
+{"playframework.com" ["mailto:security@playframework.com"] ""}
+{"sailormoonscreencaps.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sibelkostarakis.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sibermagazin.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sinnedbeyondhelp.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"svarecky-elektrody.cz" ["mailto:security@netdirect.cz"] ""}
+{"teamliquid.com" ["mailto:security@teamliquid.net"] ""}
+{"telojicom.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"thehut.com" ["https://www.thg.com/security-issues/"] ""}
+{"ucakkazalaricom.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ucretsizreklam.net" [] ""}
+{"ukrmedia.top" [] ""}
+{"vahceylani.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vizebasvurusu.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"vivoegy.com" [] ""}
+{"ysoft.com" ["https://www.ysoft.com/en/report-a-security-issue"] ""}
+{"zerrinegeliler.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"equiti.com" [] ""}
+{"pampers.ua" ["https://hackerone.com/proctergamble"] ""}
+{"lectra.com" ["net.monitoring@lectra.com"] ""}
+{"nouryon.com" ["mailto:infosec@nouryon.com" "mailto:security@nouryon.com"] ""}
+{"5gstore.ma" [] ""}
+{"sage.fr" ["soc@sage.com"] ""}
+{"allaboutjoongi.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"elit-alco.com.ua" [] ""}
+{"keith-al.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lauravartiainen.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"lowereside.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"pg.com.ua" ["https://hackerone.com/proctergamble"] ""}
+{"tmetric.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"webgazeta.top" [] ""}
+{"99designs.nl" ["mailto:security@99designs.com"] ""}
+{"alarmelectronic.com" [] ""}
+{"alexbuga.is" ["https://hackerone.com/automattic/reports/new"] ""}
+{"alza.co.uk" ["https://www.alza.cz/kontakt/ostatni.htm?qgid=66&qid=316" "tel:+420 725 872 004"] ""}
+{"basamarket.ir" [] ""}
+{"bitbag.ir" [] ""}
+{"capitalcardiology.com" [] ""}
+{"ctrl.blog" ["mailto:security.txt@ctrl.blog"] ""}
+{"e-sushi.net" ["@originalesushi at twitter"] ""}
+{"epam.hu" ["mailto:contact.security@epam.com"] ""}
+{"kazinmarket.com" [] ""}
+{"kimbrer.com" [] ""}
+{"lupa.cz" ["security@iinfo.cz"] ""}
+{"mifa.org" ["mailto:matt.grayson@speakcreative.com"] ""}
+{"ncsc.gov.uk" ["https://www.ncsc.gov.uk/vulnerability-reporting"] ""}
+{"nm.cz" ["mailto:security@netservis.cz" "mailto:info@netservis.cz"] ""}
+{"prosody.im" ["developers@prosody.im"] ""}
+{"shahpranav.com" [] ""}
+{"sky5.ir" [] ""}
+{"swimburger.net" ["nswimburger@gmail.com" "https://twitter.com/realswimburger"] ""}
+{"vivagame.ir" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"warlordsofaternum.com" ["mailto:security@innogames.com"] ""}
+{"wms.ir" [] ""}
+{"allthingslinguistic.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"expressvpn.net" ["https://www.expressvpn.com/bug-bounty" "mailto:security@expressvpn.com" "mailto:support@expressvpn.com"] ""}
+{"textbookrush.com" [] ""}
+{"0832club.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"adsrvr.org" [] ""}
+{"babyandco.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"centre-europeen-formation.fr" ["mailto:security[at]digdeo.fr"] ""}
+{"charliehebdo.fr" ["mailto:webmaster@charliehebdo.fr" "https://charliehebdo.fr/pages/contact/"] ""}
+{"consortia.com" ["mailto:security@ccdstudios.com"] ""}
+{"czu.cz" ["abuse@czu.cz" "https://www.oikt.czu.cz/cs/r-12085-kontakt"] ""}
+{"ewustore.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"kimoby.com" ["mailto:security@kimoby.com"] "fri, 19 nov 2021 00:00:00 -0500"}
+{"lovelyui.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ofwat.gov.uk" ["mailto:ofwatsecurity@ofwat.gov.uk"] ""}
+{"quibi.com" ["sbugs@quibi.com"] ""}
+{"scot.nhs.uk" ["nss.showteam@nhs.net"] ""}
+{"soul-streamingvf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"soul-film-streaming-vf.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"sportsinmusic.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"touteleurope.eu" ["security@atolcd.com"] ""}
+{"vousnousils.fr" ["mailto:cert@bpce.fr"] ""}
+{"zazzle.de" ["the email address \"security\" on the domain \"zazzle.com\""] ""}
+{"amaimoniee.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"blue-bag.com" ["mailto:security@blue-bag.com"] ""}
+{"canon.ua" ["product-security@canon-europe.com"] ""}
+{"diia.app" ["mailto:security@diia.gov.ua"] ""}
+{"esky.com" ["mailto:security@esky.com"] ""}
+{"free-run.kiev.ua" [] ""}
+{"gtopala.com" ["siw@gtopala.com" "https://twitter.com/gtopala"] ""}
+{"growgorgeous.co.uk" ["https://www.thg.com/security-issues/"] ""}
+{"imawitchywitch.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"karazrel.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"justlet-melive.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"msetup-partners.org" ["mailto:admin@msetup.pro"] ""}
+{"mpilgrimk.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"norarussell.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"twinkl.at" ["@arbgae42g"] ""}
+{"twinkl.com.mx" ["@arbgae42g"] ""}
+{"z6dmitriyustinov1997.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"supersaver.ie" ["mailto:security@etraveligroup.com"] ""}
+{"seolytics.io" [] ""}
+{"deloton.com" [] ""}
+{"prestige-kwt.com" [] ""}
+{"projektn.sk" ["security@dennikn.sk"] ""}
+{"camplakes.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"ctempurl.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"gail-shark.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}
+{"google.ac" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"mommynearest.com" [] ""}
+{"bsbrowsing.com" [] ""}
+{"nervoussweetssweets.tumblr.com" ["https://hackerone.com/automattic/reports/new"] ""}

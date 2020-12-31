@@ -25,3 +25,6 @@ $ grep -v "\[\]" out.txt
 ```bash
 $ grep -v "\[\]" out.txt | wc -l
 ```
+## Notes
+
+  * You may need to adjust the nofile limit in /etc/security/limits.conf

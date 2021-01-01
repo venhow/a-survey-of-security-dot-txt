@@ -1,6 +1,6 @@
 # ssdt - Survey security.txt files
 
-A program to quickly survey [security.txt](https://tools.ietf.org/html/draft-foudil-securitytxt-10) files found on the Alexa Top 1 Million websites. The program takes about 15 hours to run over a 1.5Mbit residential DSL connection.
+A program to quickly survey [security.txt](https://tools.ietf.org/html/draft-foudil-securitytxt-10) files found on the Alexa Top 1 Million websites. The program takes about 15 hours to run over a 1.5Mbit residential DSL connection. It could go much faster over high-speed links.
 
 ```bash
 $ ps -p 165199 -o etime

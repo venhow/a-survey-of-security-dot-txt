@@ -4,8 +4,8 @@ A program to quickly survey [security.txt](https://tools.ietf.org/html/draft-fou
 
 ```bash
 $ ps -p 165199 -o etime
-	ELAPSED
-	15:06:42
+  ELAPSED
+  15:06:42
 ```
 
 ## Sample output

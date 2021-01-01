@@ -2,6 +2,15 @@
 
 A survey of [security.txt](https://tools.ietf.org/html/draft-foudil-securitytxt-10) files found on the Alexa Top 1 Million websites.
 
+```bash
+{"website" ["contacts"] "expires"}
+{"github.com" ["https://hackerone.com/github"] ""}
+{"google.com" ["https://g.co/vulnz" "mailto:security@google.com"] ""}
+{"facebook.com" ["https://www.facebook.com/whitehat/report/"] ""}
+{"linkedin.com" ["mailto:security@linkedin.com" "https://www.linkedin.com/help/linkedin/answer/62924"] ""}
+{"cloudflare.com" ["https://hackerone.com/cloudflare" "mailto:security@cloudflare.com" "https://www.cloudflare.com/abuse/"] "sat, 20 mar 2021 13:24:05 -0700"}
+```
+
 ## Build the program
 
 ```bash

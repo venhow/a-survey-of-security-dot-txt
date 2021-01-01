@@ -36,5 +36,5 @@ $ grep -v "\[\]" out.txt | wc -l
 ```
 ## Notes
 
-  * You may need to adjust the nofile limit in /etc/security/limits.conf
-  * Read my [blog post](https://www.go350.com/posts/a-survey-of-security-dot-txt/) about why I wrote this.
+  * You may need to adjust the nofile limit in /etc/security/limits.conf before running ssdt. Otherwise, you may exceed the open file limit.
+  * Read my [blog post](https://www.go350.com/posts/a-survey-of-security-dot-txt/) about why I wrote this program.

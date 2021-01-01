@@ -23,13 +23,13 @@ $ make
 $ ./ssdt -hosts top-1m-alexa.csv 2> err.txt > out.txt
 ```
 
-## Remove false positives
+## Remove invalid security.txt entries
 
 ```bash
 $ grep -v "\[\]" out.txt
 ```
 
-## Count valid results
+## Count results
 
 ```bash
 $ grep -v "\[\]" out.txt | wc -l
